@@ -6,3 +6,5 @@ First, you must read
 
 Link [newlink](https://irosyadi.github.io/newlink)
 Other Link [other](https://irosyadi.github.io/newfolder/newfolderlink)
+
+As I see this will added by Obsidian [ObsidianNote](https://irosyadi.github.io/ObsidianNote)
