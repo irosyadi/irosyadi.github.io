@@ -8,7 +8,7 @@
         },
         {
             "text": "Blog",
-            "target": "blog/_vnote.json",
+            "target": "_vnote.json",
             "navi": true
         }
     ],
