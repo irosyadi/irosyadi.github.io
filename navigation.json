@@ -4,7 +4,7 @@
         {
             "text": "Home",
             "target": "index.md",
-            "toc": false
+            "toc": true
         },
         {
             "text": "Notebook",
