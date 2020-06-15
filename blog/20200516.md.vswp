@@ -1,0 +1,69 @@
+vnote_backup_file_826537664 C:/Users/imron/Documents/GitHub/irosyadi.github.io/blog/20200516.md
+## Apa yang dipelajari hari ini
+
+### Markdown
+- Markdown ternyata memiliki dua macam: basic dan extended
+- Basic markdown di antaranya:
+  - heading
+  - bold and italics
+ - Extended markdown di antaranya:
+   - strikethrough
+   - superscript and subscript
+   - table
+   - Math (Latex, Mathjax, Katex)
+   - HTML format 
+- Dialek Markdown begitu banyak sehingga interoperabilitas nya  tidak terlalu bagus
+- dkjafslk 
+
+
+### [SageMath](https://www.sagemath.org/)
+SageMath is
+- a free open-source
+- mathematics software system
+-  licensed under the GPL. 
+-  It builds on top of : NumPy, SciPy, matplotlib, Sympy, Maxima, GAP, FLINT, R and many more. 
+-  Use Python-based language or directly via interfaces or wrappers.
+-  Mission: Creating a viable free open source alternative to Magma, Maple, Mathematica and Matlab. 
+
+### [Collected Notes](https://collectednotes.com)
+Collected Notes is
+- atomic note taking
+- blogging platform
+- using markdown
+- support youtube embedding
+
+### YOLO
+- singkatan dari "You Only Look Once"
+- dikembangkan oleh Joseph 'Joe' Redmond 
+- Machine Learning for Object Identification
+- Sudah dikembangkan YOLO v1, YOLO v2, YOLO v3 oleh Redmond
+- Redmond mengundurkan diri dari proyek YOLO karena khawatir dengan implikasi teknologinya [1]
+- Menjadi YOLO v4 dan YOLO v5 oleh yang lain[2]
+
+[1]: [Twitter](https://twitter.com/pjreddie/status/1230524770350817280)
+[2]: [](https://blog.roboflow.ai/yolov4-versus-yolov5/)
+
+## Hal keren hari ini
+- Websitenya [Andi Matuschak](https://notes.andymatuschak.org/About_these_notes) 
+
+
+## Berita Hari ini
+- Intermittent Fasting, semakin terbukti bagus [Washington Post Article](https://www.washingtonpost.com/health/intermittent-fasting-works-for-many--not-only-for-weight-loss-but-also-for-heart-health/2020/06/12/11420c1c-a4d5-11ea-b619-3f9133bbb482_story.html), HN [Discussion](https://news.ycombinator.com/item?id=23514651)
+
+## Machine Learning
+- [Machine Learning Field Guide](https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx)
+  - Importing Data
+  - Data Cleaning
+  - Visualisation
+  - Modelling
+  - Production
+
+## Paper with Code
+- Spying coversation by watching the bulb lamp movement: [Lamphone](https://www.nassiben.com/lamphone)
+
+## Open Source of The Day
+- [Taxipy](https://bitbucket.org/nkloga/taxipy-frontend/src/master/) an open source alternative to Uber/Gojek
+
+## Apa yang dicoba hari ini?
+- [x] Mempelajari berbagai syntax markdown
+
