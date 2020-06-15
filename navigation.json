@@ -4,11 +4,11 @@
         {
             "text": "Home",
             "target": "index.md",
-            "toc": true
+            "toc": false
         },
         {
-            "text": "Notebook",
-            "target": "main/_vnote.json",
+            "text": "Blog",
+            "target": "blog/_vnote.json",
             "navi": true
         }
     ],
