@@ -7,15 +7,9 @@
             "toc": false
         },
         {
-            "text": "Note",
+            "text": "Notebook",
             "target": "_vnote.json",
             "navi": true
-        }
-		{
-            "text": "Blog",
-            "target": "_vnote.json",
-            "navi": true
-			"navi_index": "blog/welcome.md"
         }
     ],
     "actions":
