@@ -7,9 +7,15 @@
             "toc": false
         },
         {
+            "text": "Note",
+            "target": "_vnote.json",
+            "navi": true
+        }
+		{
             "text": "Blog",
             "target": "_vnote.json",
             "navi": true
+			"navi_index": "blog/welcome.md"
         }
     ],
     "actions":
