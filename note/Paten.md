@@ -1,5 +1,8 @@
 # Paten
 
+[TOC]
+
+## Apa itu Invensi?
 Temuan vs Invensi
 Invensi melibatkan rekayasa manusia, bukan sekedar menemukan (temuan) sesuatu di alam.
 
@@ -25,7 +28,7 @@ Presentasi suatu informasi itu bukan invensi
 
 Penggunaan baru itu bukan invensi.
 
-## Hal-hal yang Bisa Dipatenkan
+## Hal-hal yang Bisa dan Tidak Bisa Dipatenkan
 
 Link to [Header](#toc_0)
 
@@ -43,5 +46,61 @@ Invensi yang Tak Bisa diberi Paten
 
 This is link to [welcome_note.md](welcome_note.md)
 
+
+## Dokumen Invensi
+
+### Judul
+- Singkat dan jelas menggambarkan invensi
+- Tidak boleh menggunakan merek dagang
+- Tidak boleh menggunakan kata 'baru'
+- Tidak boleh menggunakan kata pujian
+- Judul klaim itu boleh sama dengan yang lain, yang penting klaimnya
+
+### Bidang Teknik Invensi
+Invensi biasanya dua:
+- produk
+- proses
+- aplikasi/penggunaan
+- atau gabungannya
+
+Bagian ini menyebutkan tentang invensi itu adalah produk, proses, atau keduanya
+
+### Latar Belakang Invensi
+Penelusuran atas invensi terdahulu.
+Menunjukkan kekurangan invensi terdahulu.
+Menunjukkan kelebihan invensi sekarang.
+
+### Uraian Singkat Invensi
+Menguraikan invensi secara umum
+Sebagai cermin atas klaim.
+Lebih rinci dari bidang teknik invensi dengan menyebutkan detil.
+Semua fitur esensial diuraikan di urain singkat: konsentrasi, suhu dll.
+Luas ke spesifik
+
+Maka biasanya, dokumen invensi dibuat dari belakang (dari klaim)
+
+## Abstrak
+200 kata atau 1 halaman
+
+### Uraian Singkat Gambar
+Cukup menunjukkan Gambar ke
+Dibutuhkan agar saat di Pengadilan jadi jelas
+
+### Uraian Lengkap Invensi
+Awali dengan Definisi
+Konsistensi Penulisan
+
+
+### Klaim
+Klaim menentukan perlindungan
+Penggunaan 
+
+Elektro:
+- produk yang dicirikan oleh mekanisme
+- dicirikan lagi oleh fungsi
+
+Drafter itu harus seluas-luasnya, pemeriksa sesempit-sempitnya
+
+Dimulai dari fitur umum, baru ke fitur khusus.
 
 
