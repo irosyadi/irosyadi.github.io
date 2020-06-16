@@ -15,7 +15,7 @@
     "actions":
     [
         {
-            "text": "Viki",
+            "text": "viki",
             "icon": "css/viki_white.svg",
             "target": "https://tamlok.github.io/viki/"
         }
