@@ -10,7 +10,6 @@
             "text": "Blog",
             "target": "_vnote.json",
             "navi": true
-			"navi_index": "blog/welcome.md"
         }
     ],
     "actions":
