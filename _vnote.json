@@ -27,6 +27,12 @@
         },
         {
             "name": "app"
+        },
+        {
+            "name": "buku"
+        },
+        {
+            "name": "research"
         }
     ],
     "tags": [
