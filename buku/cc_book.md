@@ -1,133 +1,77 @@
 # Awesome Creative Common Book
 
-Lists: https://www.freetechbooks.com/licenses?page=1
-https://www.learndatasci.com/free-data-science-books/
+## Repository of CC Books
+1. [FreetechBooks](https://www.freetechbooks.com/licenses?page=1)
+2. [Text Book Equity](https://www.textbookequity.org/)
+3. [Awesome Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 
-1. Free and Open Machine Learning Book
-Author : Maikel Mardjan
-Link : https://freeandopenmachinelearning.readthedocs.io/en/latest/#
-License : CC BY-SA 4.0
+## List of Free Books
+1. [Learn Anything](https://github.com/learn-anything/books)
+2. [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+3. [Free Data Science Book](https://www.learndatasci.com/free-data-science-books/)
 
-2. Neural Networks and Deep Learning
-Author : Michael Nielsen
-Link : http://neuralnetworksanddeeplearning.com/
+## BSD
+1. [Learn Data Science](https://github.com/nborwankar/LearnDataScience)
+
+## CC-BY Book
+1. [Free and Open Machine Learning Book](https://freeandopenmachinelearning.readthedocs.io/en/latest/#) CC-BY
+2. [Statistic Done Wrong](https://www.statisticsdonewrong.com/) CC-BY
+3. [Scipy Lectures](http://scipy-lectures.org/) CC-BY
+4. [Introduction to Scientific Computing in Python](https://github.com/jrjohansson/scientific-python-lectures) CC-BY
+5. [Linear Algebra, Theory and Applications](https://www.textbookequity.org/linear-algebra-theory-and-applications/) CC-BY
+6. [Introduction to Digital Logic with Laboratory Exercises](https://www.freetechbooks.com/introduction-to-digital-logic-with-laboratory-exercises-t1318.html) CC-BY
+7. [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) CC-BY
+8. [Introduction of Networking: How Internet Works](http://www.net-intro.com/) CC-BY (pdf)
+9. [Pengambangan Aplikasi Cloud Menggunakan Node.js](https://github.com/bpdp/buku-cloud-nodejs) CC-BY
+3. [Pemrograman Go](https://github.com/wi-rg/buku--go-cloud) CC-BY
+4. [Edible Plant Food](https://github.com/projeduc/edible-plants-book) CC-BY
+5. [FREESOULS Captured and Released](https://github.com/freesouls-cc/freesouls.cc) CC-BY
+6. [Introduction to Software Requirements Engineering](https://github.com/lunduniversity/reqeng-book) CC-BY
+7. [Applied Computer Science](https://github.com/wjholden/Applied-Computer-Science)
+6. [Data Science Live Book](https://github.com/pablo14/data-science-live-book) CC-BY
+7. [A free culture OCaml textbook](https://ocaml-book.baturin.org/) CC-BY
+8. [Dive Into Python 3](https://diveintopython3.net/) CC-BY
+9. [Full Speed Python](https://github.com/joaoventura/full-speed-python/releases/) CC-BY
+10. [The Making of a Web Application](https://odinuv.cz/) CC-BY
+11. [Advanced Bioinformatics](https://github.com/ThorntonLab/ComputerSkills4GradStudents) CC-BY
+12. [Scientific Computing](https://www.math.ust.hk/~machas/scientific-computing.pdf) CC-BY
+13. [Scientific Computing with Python](https://github.com/jrjohansson/scientific-python-lectures) CC-BY
+
+## CC-BY Book Provider
+1. [Data Journalism](https://datajournalism.com/) CC-BY
+2. [Openstax Books](https://openstax.org/) and [CNX Books](https://cnx.org/) CC-BY
+3. [The Copula Books](https://cupola.gettysburg.edu/oer/) CC-BY
+4. [Tyller Wallace Books](http://www.wallace.ccfaculty.org/book/book.html) CC-BY
+5. [AOSA Books](http://aosabook.org/en/index.html) CC-BY
+  1. 500 Lines or Less
+  2. The Performance of Open Source Applications
+6. [Intech Open Books](https://www.intechopen.com/) CC-BY (after 2011)
+  1. [Advanced Applications for Artificial Neural Networks](https://www.intechopen.com/books/advanced-applications-for-artificial-neural-networks)
+  2. [Artificial Neural Networks - Models and Applications](https://www.intechopen.com/books/artificial-neural-networks-models-and-applications)
+  3. [Artificial Neural Networks - Architectures and Applications](https://www.intechopen.com/books/artificial-neural-networks-models-and-applications)
+  4. [Artificial Neural Networks - Methodological Advances and Biomedical Applications](https://www.intechopen.com/books/artificial-neural-networks-methodological-advances-and-biomedical-applications)
+  5.  [Recurrent Neural Networks and Soft Computing](https://www.intechopen.com/books/recurrent-neural-networks-and-soft-computing)
+  6. [Recurrent Neural Networks for Temporal Data Processing](https://www.intechopen.com/books/recurrent-neural-networks-for-temporal-data-processing)
+  7. [Recurrent Neural Networks](https://www.intechopen.com/books/recurrent_neural_networks)
+
+## CC-BY-NC
+1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) CC-BY-NC
 Code : https://github.com/mnielsen/neural-networks-and-deep-learning
-License : CC BY-NC 3.0
+2. [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) CC-BY-NC
+3. [Data+Design](https://github.com/infoactive/data-design/) CC-BY-NC
+4. [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) CC-BY-NC
+5. [Introduction of Networking: How Internet Works](http://www.net-intro.com/) CC-BY-NC (print)
+6. [The Shape of Design](https://shapeofdesignbook.com/), [French Translation](https://github.com/eric-brechemier/the-shape-of-design-french-translation) CC-BY-NC
+7. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+8. [Pro Git](https://git-scm.com/book/en/v2) CC-BY-NC
+9. [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) CC-BY-NC
+10. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) CC-BY-NC
+11. [Nature of Code](https://natureofcode.com/book/)[Code](https://github.com/nature-of-code) CC-BY-NC
 
-3. Interpretable Machine Learning: A Guide for Making Black Box Models Explainable
-Author : Christoph Molnar
-Link : https://christophm.github.io/interpretable-ml-book/
-License : CC BY-NC-SA 4.0
+## CC-BY-NC Book Provider
+1. [Intech Open Books](https://www.intechopen.com/) CC-BY-NC (before 2011)
 
-4. Python Machine Learning
-Author : Sebastian Raschka
-Code : https://github.com/rasbt/python-machine-learning-book
-Code : https://github.com/rasbt/python-machine-learning-book-2nd-edition
-Slide : https://github.com/dmitriydligach/PyMLSlides
-
-5. Advanced Applications for Artificial Neural Networks
-Author : Adel El-Shahat
-Link : https://www.intechopen.com/books/advanced-applications-for-artificial-neural-networks
-License : CC BY 3.0 https://creativecommons.org/licenses/by/3.0/
-
-6. Artificial Neural Networks - Models and Applications
-Author : Joao Luis G. Rosa
-Link : https://www.intechopen.com/books/artificial-neural-networks-models-and-applications
-License : CC BY 3.0 https://creativecommons.org/licenses/by/3.0/
-
-7. Applied Artificial Neural Networks
-Author : Christian Dawson
-Link : https://www.mdpi.com/books/pdfview/book/236
-License : CC BY-NC-ND 
-
-8. Artificial Neural Networks - Architectures and Applications
-Author : Kenji Suzuki
-Link: https://www.intechopen.com/books/artificial-neural-networks-models-and-applications
-License : Attribution 3.0 Unported (CC BY 3.0)
-
-9. Artificial Neural Networks - Methodological Advances and Biomedical Applications
-Author : Kenji Suzuki
-Link : https://www.intechopen.com/books/artificial-neural-networks-methodological-advances-and-biomedical-applications
-License : Attribution 3.0 Unported (CC BY 3.0)
-
-10.  Recurrent Neural Networks and Soft Computing
-Author : Mahmoud ElHefnawi and Mohamed Mysara
-Link : https://www.intechopen.com/books/recurrent-neural-networks-and-soft-computing
-
-11. Recurrent Neural Networks for Temporal Data Processing
-Author : Hubert Cardot 
-Link : https://www.intechopen.com/books/recurrent-neural-networks-for-temporal-data-processing
-
-12. Recurrent Neural Networks
-Author : Xiaolin Hu and P. Balasubramaniam 
-Link : https://www.intechopen.com/books/recurrent_neural_networks
-
-13. Reinforcement Learning: An Introduction, Second Edition
-Author : Richard S. Sutton and Andrew G. Barto
-Link : http://incompleteideas.net/sutton/book/the-book.html
-License : CC BY-NC-ND 2.0 https://creativecommons.org/licenses/by-nc-nd/2.0/
-
-14. Efficient Learning Machines: Theories, Concepts, and Applications for Engineers and System Designers
-Author : Mariette Awad, Rahul Khanna
-License(s): CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
-
-15. A Brief Introduction to Neural Networks
-Link : http://www.dkriesel.com/en/science/neural_networks
-License: CC BY-NC-ND https://creativecommons.org/licenses/by-nc-nd/3.0/
-
-# CC-BY-SA-book
-
-1. The Shape of Design
-Author: Frank Chimero
-Link : https://shapeofdesignbook.com/
-Link : https://github.com/eric-brechemier/the-shape-of-design-french-translation
-
-2.  Pengambangan Aplikasi Cloud Menggunakan Node.js
-Author: Bambang Purnomosidi D. P.
-Link : https://github.com/bpdp/buku-cloud-nodejs
-
-3. Pemrograman Go
-Author: Bambang Purnomosidi D. P.
-Link: https://github.com/wi-rg/buku--go-cloud
-
-4. Edible Plant Food
-Author: Abdelkrime Aries
-Link : https://github.com/projeduc/edible-plants-book
-
-5. FREESOULS Captured and Released b
-Author: JOI ITO
-Link : https://github.com/freesouls-cc/freesouls.cc
-
-6. Data Science Live Book
-Author: Pablo Casas
-Link: https://github.com/pablo14/data-science-live-book
-
-7. A free culture OCaml textbook
-Author: Daniil Baturin
-Link: https://github.com/dmbaturin/ocaml-book
-Link: https://ocaml-book.baturin.org/
-
-https://github.com/learn-anything/books
-https://christophm.github.io/interpretable-ml-book/
-https://github.com/joaoventura/full-speed-python
-https://natureofcode.com/book/
-https://github.com/nature-of-code
-http://immersivemath.com/ila/index.html
-
-HR Analytics in R
-https://github.com/Hendrik147/HR_Analytics_in_R_book
-
-https://bradleyboehmke.github.io/HOML/index.html
-
-https://github.com/ujpef/site
-
-https://github.com/nominetresearch/microbit-networking-book-python
-
-https://github.com/pharpend/pfs
-https://github.com/lunduniversity/reqeng-book
-https://github.com/auriadih/data-refinery-book
-https://github.com/dokterbob/dsrp-book
-https://github.com/SteveTilford/Steve-Tilford-The-Book
-https://github.com/ThorntonLab/ComputerSkills4GradStudents
-https://github.com/wjholden/Applied-Computer-Science
-https://github.com/aaronsaray/33thingsbook.com
+## CC-BY-NC-ND
+1. [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks) CC-BY-NC-ND
+2. [Applied Artificial Neural Networks](https://www.mdpi.com/books/pdfview/book/236) CC-BY-NC-ND
+3. [Computational and Inferential Thinking](https://www.inferentialthinking.com/chapters/intro) CC-BY-NC-ND

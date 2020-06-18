@@ -1,6 +1,4 @@
-# ncbi_paper_with_code
-
-# NCBI-paperswithcode
+# NCBI Papers with Code
 Awesome NCBI Papers with Code
 
 ## CNN
