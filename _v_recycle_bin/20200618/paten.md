@@ -101,3 +101,5 @@ Elektro:
 Drafter itu harus seluas-luasnya, pemeriksa sesempit-sempitnya
 
 Dimulai dari fitur umum, baru ke fitur khusus.
+
+

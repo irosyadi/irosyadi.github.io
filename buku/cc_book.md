@@ -1,19 +1,20 @@
 # Awesome Creative Common Book
 
-## Repository of CC Books
+## Repository of Open Books
 1. [FreetechBooks](https://www.freetechbooks.com/licenses?page=1)
 2. [Text Book Equity](https://www.textbookequity.org/)
 3. [Awesome Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
+4. [Free Computer Books](http://freecomputerbooks.com/)
 
-## List of Free Books
+## Repository of Free Books
 1. [Learn Anything](https://github.com/learn-anything/books)
 2. [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 3. [Free Data Science Book](https://www.learndatasci.com/free-data-science-books/)
 
-## BSD
+## BSD Licensed Books
 1. [Learn Data Science](https://github.com/nborwankar/LearnDataScience)
 
-## CC-BY Book
+## CC-BY Licensed Books
 1. [Free and Open Machine Learning Book](https://freeandopenmachinelearning.readthedocs.io/en/latest/#) CC-BY
 2. [Statistic Done Wrong](https://www.statisticsdonewrong.com/) CC-BY
 3. [Scipy Lectures](http://scipy-lectures.org/) CC-BY
@@ -37,7 +38,7 @@
 12. [Scientific Computing](https://www.math.ust.hk/~machas/scientific-computing.pdf) CC-BY
 13. [Scientific Computing with Python](https://github.com/jrjohansson/scientific-python-lectures) CC-BY
 
-## CC-BY Book Provider
+## CC-BY Books Provider
 1. [Data Journalism](https://datajournalism.com/) CC-BY
 2. [Openstax Books](https://openstax.org/) and [CNX Books](https://cnx.org/) CC-BY
 3. [The Copula Books](https://cupola.gettysburg.edu/oer/) CC-BY
@@ -54,7 +55,7 @@
   6. [Recurrent Neural Networks for Temporal Data Processing](https://www.intechopen.com/books/recurrent-neural-networks-for-temporal-data-processing)
   7. [Recurrent Neural Networks](https://www.intechopen.com/books/recurrent_neural_networks)
 
-## CC-BY-NC
+## CC-BY-NC Licensed Books
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) CC-BY-NC
 Code : https://github.com/mnielsen/neural-networks-and-deep-learning
 2. [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) CC-BY-NC
@@ -68,10 +69,10 @@ Code : https://github.com/mnielsen/neural-networks-and-deep-learning
 10. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) CC-BY-NC
 11. [Nature of Code](https://natureofcode.com/book/)[Code](https://github.com/nature-of-code) CC-BY-NC
 
-## CC-BY-NC Book Provider
+## CC-BY-NC Books Provider
 1. [Intech Open Books](https://www.intechopen.com/) CC-BY-NC (before 2011)
 
-## CC-BY-NC-ND
+## CC-BY-NC-ND Licensed Books
 1. [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks) CC-BY-NC-ND
 2. [Applied Artificial Neural Networks](https://www.mdpi.com/books/pdfview/book/236) CC-BY-NC-ND
 3. [Computational and Inferential Thinking](https://www.inferentialthinking.com/chapters/intro) CC-BY-NC-ND
