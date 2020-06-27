@@ -1,5 +1,9 @@
 # pv_system_design
 
+## Link of PV Learning
+- [PV Education](https://www.pveducation.org/pvcdrom/introduction/introduction)
+- [Science Direct](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/insolation)
+
 ## List of PV System Designer
 1. [PV Software](https://photovoltaic-software.com/pv-softwares-calculators/online-free-photovoltaic-software)
 2. [Inbalance Energy](http://www.inbalance-energy.co.uk/articles/free_solar_pv_calculators_tools_software.html)
@@ -56,3 +60,37 @@ Link: [Mitigation](https://blog.aurorasolar.com/shading-losses-for-pv-systems-an
 ## Maps of Irradiance
 1. [Global Solar Atlas](https://globalsolaratlas.info/) or [map](https://solargis.com/maps-and-gis-data/download/world)
 2. [Wiki](https://en.wikipedia.org/wiki/Solar_irradiance)
+
+===
+
+## Sistem PV
+- Off Grid, Stand-Allone
+    - mandiri, tidak terhubung dengan jala-jala
+    - hanya membutuhkan SCC untuk mengatur penyimpanan energi di baterai
+    - membutuhkan inverter untuk mengubah ke AC
+  - On Grid, Grid Connected
+    - terhubung dengan jala-jala
+    - hanya membutuhkan *grid-tie inverter* dengan *anti islanding*
+    - tidak membutuhkan baterai
+    - untuk bisa on-grid, membutuhkan regulasi dan kepatuhan regulasi
+- Hibrida (*hybrid*)
+    - terhubung dengan jala-jala
+    - memiliki penyimpanan di baterai
+    - membutuhkan integrasi SCC and *grid-tie* inverter with MPPT (*solar inverter with charge controller*)
+
+### Sistem PV Off-Grid
+- Kapasitas baterai harus memperhitungkan cadangan jika kondisi penyinaran tak optimal. Di Indonesia, kapasitas cadangan nya adalah 3 hari otonomi (autonomous days) 
+
+### Sistem PV On-Grid
+- PV berfungsi menyuplai jala-jala, beban disuplai oleh jala-jala.
+
+## Islanding
+- Islanding pada pembangkit terkoneksi jala-jala (*grid-connected*) tetap mengirimkan daya pada saat daya dari jala-jala tidak ada.
+- Bahaya dari *islanding*:
+  - bahaya bagi pekerja/pengguna yang tak menyadari bahwa rangkaian masih mendapat daya
+  - kerusakan piranti elektronik karena memungkinkan muncul tegangan dan frekuensi yang abnormal
+  - problem pada sistem *recloser* (*automated switching*)
+- Grid-tie inverter yang mana tegangan, frekuensi dan fase output AC nya sesuai dengan jala-jala (*grid*) diharuskan memiliki *anti-islanding* dengan memutus rangkaian apabila jala-jala tidak menyuplai.
+
+## Balance of System
+- Komponen isolasi 

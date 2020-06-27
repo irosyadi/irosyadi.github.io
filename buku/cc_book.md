@@ -1,10 +1,23 @@
 # Awesome Creative Common Book
 
 ## Repository of Open Books
-1. [FreetechBooks](https://www.freetechbooks.com/licenses?page=1)
-2. [Text Book Equity](https://www.textbookequity.org/)
-3. [Awesome Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
-4. [Free Computer Books](http://freecomputerbooks.com/)
+1. [Freetechbooks](https://www.freetechbooks.com/), [search by license](https://www.freetechbooks.com/licenses?page=1)
+2. [Freecomputerbooks](http://freecomputerbooks.com/)
+3. [Open Textbooks Library](https://open.umn.edu/opentextbooks)
+4. [Directory of Open Access Books](https://www.doabooks.org/)
+5. [Libretexts](https://libretexts.org/)
+6. [Saylor Academy Books](https://www.saylor.org/books/)
+7. [Openstax](https://openstax.org/)
+8. [BC Campus](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/)
+9. [Open SUNY Textbooks](https://textbooks.opensuny.org/)
+10. [NAP Edu](https://www.nap.edu/)
+11. [Open Text Books Hongkong](http://www.opentextbooks.org.hk/)
+12. [Oreilly Open Book](https://www.oreilly.com/openbook/)
+13. [Manitoba Open Textbooks](https://openedmb.ca/find-open-textbooks/)
+14. [OER](https://www.oercommons.org/hubs/open-textbooks)
+15. [Text Book Equity](https://www.textbookequity.org/)
+16. [Awesome Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
+17. [MIT Press Open](https://mitpress.mit.edu/mit-press-open)
 
 ## Repository of Free Books
 1. [Learn Anything](https://github.com/learn-anything/books)

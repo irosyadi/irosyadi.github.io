@@ -25,8 +25,7 @@
 6. [100 Python Coding Problems](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions) License: -
 7. [Data Flair Training](https://data-flair.training/blogs/python-tutorials-home/) License: -
 8. [Python for You and Me](https://pymbook.readthedocs.io/en/py3/) or [Python for You and Me](https://pymbook.readthedocs.io/en/latest/)
-9. [Google Python Tutorial](https://developers.google.com/edu/python/) License: CC BY
-10. [Hands on Python Tutorial](http://anh.cs.luc.edu/handsonPythonTutorial/ch1.html) License: CC BY-NC-SA
+9. [Google Python Tutorial](https://developers.google.com/edu/python/?hl=de-DE&csw=1)
 
 ## List of Open Book
 1. [Open Text Books UMN](https://open.umn.edu/opentextbooks/)
@@ -59,8 +58,6 @@
 19. [Introduction to Computer Networks](http://intronetworks.cs.luc.edu/current/html/) License: CC BY-NC-ND
 20. [Introduction to Computer Graphics](http://math.hws.edu/graphicsbook/) License: CC BY-NC-SA
 21. [A Brief Introduction of Matlab](https://cnx.org/contents/qTr2bTqz@11.8:IZLgFOgb@3/Acknowledgements) License: CC BY
-22. [Programming Computer Vision Python](http://programmingcomputervision.com/) License: CC BY-NC-ND
-23. [MIT Programming with Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) License: CC BY-NC
 
 ## Data Science with Python
 1. [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) License: Apache
@@ -82,7 +79,6 @@
 11. [Awesome Python in Education](https://github.com/quobit/awesome-python-in-education)
 12. [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 13. [Recommended Python Learning Resources](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
-14. [Wikibooks Python](https://en.wikibooks.org/wiki/Python_Programming/Links)
 
 ## Python Online IDE
 1. [Python Tutor](http://www.pythontutor.com/)

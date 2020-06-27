@@ -1,10 +1,3 @@
-# map
-
-1. [Nukemap](https://nuclearsecrecy.com/nukemap/)
-Anda dapat memilih suatu lokas dan anda dapat meledakkan suatu bom nuklir di lokasi tersebut dan melihat jangkauan dampaknya
-3. [Missilemap](https://nuclearsecrecy.com/missilemap/)
-Peta yang menggambarkan jangkauan misil
-
 # Awesome Maps
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -84,6 +77,7 @@ Peta yang menggambarkan jangkauan misil
 - [Forest Watch](https://fires.globalforestwatch.org/map) - Monitoring of forest and land fires.
 - [Live Cyber Threat Map](https://threatmap.checkpoint.com/) - Live map of cyber attacks.
 - [NUKEMAP](https://nuclearsecrecy.com/nukemap/) - Simulate explosions of nuclear weapons.
+- [Missilemap](https://nuclearsecrecy.com/missilemap/) - Simulate of missile reachs
 
 ## Historic
 
