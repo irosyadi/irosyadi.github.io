@@ -1,4 +1,4 @@
-root: ./blog
+root: ./gitbook
 
 ​structure:  
     readme: README.md  

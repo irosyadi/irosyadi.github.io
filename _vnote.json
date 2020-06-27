@@ -36,6 +36,9 @@
         },
         {
             "name": "vnote"
+        },
+        {
+            "name": "gitbook"
         }
     ],
     "tags": [
