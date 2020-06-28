@@ -1,51 +1,8 @@
 {
     "created_time": "2020-06-27T22:12:57Z",
     "files": [
-        {
-            "attachment_folder": "",
-            "attachments": [
-            ],
-            "created_time": "2020-06-27T22:20:31Z",
-            "modified_time": "2020-06-27T22:20:58Z",
-            "name": "readme.md",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "attachments": [
-            ],
-            "created_time": "2020-06-27T22:20:45Z",
-            "modified_time": "2020-06-28T12:55:21Z",
-            "name": "summary.md",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "attachments": [
-            ],
-            "created_time": "2020-06-28T12:13:01Z",
-            "modified_time": "2020-06-28T12:13:01Z",
-            "name": "new-gitbook-page.md",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "attachments": [
-            ],
-            "created_time": "2020-06-28T12:35:48Z",
-            "modified_time": "2020-06-28T12:36:21Z",
-            "name": "another_gitbook.md",
-            "tags": [
-            ]
-        }
     ],
     "sub_directories": [
-        {
-            "name": "gitbook_folder"
-        }
     ],
     "version": "1"
 }
