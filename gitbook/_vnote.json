@@ -23,6 +23,9 @@
         }
     ],
     "sub_directories": [
+        {
+            "name": "gitbook_folder"
+        }
     ],
     "version": "1"
 }
