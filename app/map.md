@@ -1,7 +1,5 @@
 # Awesome Maps
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 > A curated list of awesome online maps
 
 ## General Purpose
@@ -116,8 +114,4 @@
 
 - [The Universe in 3D](https://in-the-sky.org/ngc3d.php) - Interactive 3D map of the universe.
 
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 

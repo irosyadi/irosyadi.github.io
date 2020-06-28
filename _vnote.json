@@ -23,22 +23,19 @@
             "name": "note"
         },
         {
-            "name": "keren"
-        },
-        {
             "name": "app"
         },
         {
-            "name": "buku"
+            "name": "book"
         },
         {
             "name": "research"
         },
         {
-            "name": "vnote"
+            "name": "gitbook"
         },
         {
-            "name": "gitbook"
+            "name": "programming"
         }
     ],
     "tags": [

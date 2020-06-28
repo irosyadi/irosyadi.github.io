@@ -1,4 +1,4 @@
-root: ./gitbook
+root: ./
 
 ​structure:  
     readme: .gitbook/README.md  
