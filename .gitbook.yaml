@@ -1,6 +1,6 @@
-root: ./gitbook/
+root: ./
 
 ​structure:  
-    readme: .gitbook/README.md  
-    summary: .gitbook/SUMMARY.md​
+    readme: ./README.md  
+    summary: ./SUMMARY.md​
     
