@@ -10,8 +10,8 @@
     {
         "html": true,
         "breaks": true,
-        "linkify": false,
-        "typographer": false,
+        "linkify": true,
+        "typographer": true,
         "lang_prefix": "lang-",
         "image_caption": true,
         "plantuml_server": "https://www.plantuml.com/plantuml",
