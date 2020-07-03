@@ -3,7 +3,7 @@
     [
         {
             "text": "Home",
-            "target": "README.md",
+            "target": "index.md",
             "toc": false
         },
         {
