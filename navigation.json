@@ -3,7 +3,7 @@
     [
         {
             "text": "Home",
-            "target": "README.md",
+            "target": "index.md",
             "toc": false
         },
         {
@@ -15,7 +15,7 @@
     "actions":
     [
         {
-            "text": "viki",
+            "text": "Viki",
             "icon": "css/viki_white.svg",
             "target": "https://tamlok.github.io/viki/"
         }
