@@ -52,3 +52,5 @@
    - [Gatsby Theme Brain](https://github.com/aengusmcmillin/gatsby-theme-brain) [Aengus](https://aengusmcmillin.com/brain)
    - [Gatsby Theme Andy ](https://github.com/aravindballa/gatsby-theme-andy) [Aravind Balla](https://notes.aravindballa.com/)
    - [Mathieu Dutour](https://mathieudutour.github.io/gatsby-digital-garden/) [Gatsby Digital Garden](https://github.com/mathieudutour/gatsby-digital-garden/)
+   - [Zettels](https://github.com/crisrojas/Zettels) [Hugokasten](https://hugokasten.netlify.app/features.html)
+   - [Neuron Template](https://github.com/srid/neuron-template) [Neuron Zettel](https://neuron.zettel.page/)
