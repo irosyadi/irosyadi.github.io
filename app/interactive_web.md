@@ -1,5 +1,6 @@
 # Interactive Website
 
 ## List of interactive Webs
-1. [NCase](https://ncase.me/)
-2. [Explorabe Explanation](https://explorabl.es/)
+- [NCase](https://ncase.me/)
+  - [Loopy Tool](https://ncase.me/loopy/)
+- [Explorabe Explanation](https://explorabl.es/)

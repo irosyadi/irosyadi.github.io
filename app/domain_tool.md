@@ -52,3 +52,16 @@ Check
 [Network Tools](https://network-tools.com/)
 [DNSQuery](https://dnsquery.org/)
 [Toolsvoid](https://www.toolsvoid.com)
+[Complete DNS](https://completedns.com/)
+[Domain Tools](https://whois.domaintools.com/)
+
+## Domain History
+[Who is request](https://whoisrequest.com/history/)
+[Whois History](https://whois-history.whoisxmlapi.com/api)
+
+## DNS Leak Tester
+- [DNS Leak Test](https://www.dnsleaktest.com)
+- `nslookup myip.dnsfilter.com. 103.247.36.36`
+- [DNS Leak](https://dnsleak.com)
+- [Express VPN DNS Leak Test](https://www.expressvpn.com/dns-leak-test)
+- [IP Leak](https://ipleak.net/)
