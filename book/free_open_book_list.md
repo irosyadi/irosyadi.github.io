@@ -18,6 +18,7 @@
 15. [Text Book Equity](https://www.textbookequity.org/)
 16. [Awesome Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 17. [MIT Press Open](https://mitpress.mit.edu/mit-press-open)
+18. [MDPI](https://www.mdpi.com/books)
 
 ## Repository of Free Books
 1. [Learn Anything](https://github.com/learn-anything/books)

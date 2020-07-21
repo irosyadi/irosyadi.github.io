@@ -68,6 +68,9 @@
 - [Windy](https://www.windy.com/) - Wind map, weather forecast and more than 40 other layers.
 - [Real Time Lightning Map](https://www.lightningmaps.org/) - Lightning strikes in real time across the planet.
 - [OpenWeatherMap](https://openweathermap.org/weathermap) - Interactive weather maps.
+- [Zoom Earth](https://zoom.earth/) - Weather and historical maps.
+- [Planet Explorer](https://www.planet.com/explorer/) - Daily map, paid.
+- [Earth Nullschool](https://earth.nullschool.net/) - Wind and weather map.
 
 ## Catastrophes
 
