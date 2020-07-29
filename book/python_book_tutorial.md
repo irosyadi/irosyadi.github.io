@@ -34,12 +34,11 @@
 
 ### CC-BY Python Books
 1. [Python for Everybody](https://www.py4e.com/book) License: CC BY (NC for some case)
-1. [Python for Informatics](http://www.pythonlearn.com/book.php)
 1. [Dive into Python](https://diveintopython3.problemsolving.io/) LIncese: CC-BY
-1. [Python Book](https://goalkicker.com/PythonBook/) License: CC-BY
-1. [Algorithmic Python](https://www.eecs.wsu.edu/~schneidj/swan/) License: CC-BY
+1. [Python Book](https://goalkicker.com/PythonBook/) License: CC-BY Filetype:pdf
+1. [Algorithmic Python](https://www.eecs.wsu.edu/~schneidj/swan/) License: CC-BY Filetype:pdf
 1. [Python for Humanities](https://www.karsdorp.io/python-course/) License: CC-BY
-1. [A Byte of Python](https://python.swaroopch.com/) License: CC-BY
+1. [A Byte of Python](https://python.swaroopch.com/), [Indonesian Version](https://github.com/asofyan/byte_of_python) License: CC-BY
 
 ### CC-BY-NC Python Books
 1. [Think Python](https://greenteapress.com/wp/think-python-2e/) License: CC-BY-NC

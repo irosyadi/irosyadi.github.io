@@ -19,6 +19,11 @@ Output: IP
 3. [What is My IP](https://www.whatismyip.com/)
 4. [Toolsvoid](https://www.toolsvoid.com/ip-address-lookup/)
 5. [Toolsvoid](https://www.toolsvoid.com/domain-to-ip/)
+6. [Hacker Targe](https://hackertarget.com/reverse-ip-lookup/)
+7. [Yougetsignal](https://www.yougetsignal.com/tools/web-sites-on-web-server/)
+8. [WhatisMyIPAddress](https://whatismyipaddress.com/hostname-ip)
+9. [Check Host](https://check-host.net/ip-info?)
+10. [DNS Checker](https://dnschecker.org/#A/)
 
 ## Privacy Check
 Input: -
