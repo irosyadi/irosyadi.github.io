@@ -13,6 +13,7 @@
   - [Reditr](http://reditr.com/) or [Reddit6](http://reddit6.com/#/Stream)
   - [Uforio](http://web.uforio.com/)
   - [Serializer.io](https://serializer.io/)
+  - [Rdddeck](https://rdddeck.com/)
 
 - [Hacker News](https://news.ycombinator.com/)
   - [Hacker News Premii](http://hn.premii.com/)

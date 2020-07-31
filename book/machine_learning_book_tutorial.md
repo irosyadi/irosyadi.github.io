@@ -36,6 +36,7 @@
 ## List of Machine Learning Books
 1. [List NN Book Open](https://www.freetechbooks.com/neural-networks-f58.html)
 2. [Free Tech Books](https://www.freetechbooks.com/licenses?page=1)
+3. [Recommended Books](https://mentorcruise.com/books/ml/)
 
 ## Articles about Machine Learning
 1. [Review about ML](https://link.springer.com/article/10.1007/s10462-018-09679-z)
