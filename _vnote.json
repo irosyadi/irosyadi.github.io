@@ -7,28 +7,28 @@
     "recycle_bin_folder": "_v_recycle_bin",
     "sub_directories": [
         {
-            "name": "Blog"
+            "name": "blog"
         },
         {
-            "name": "Note"
+            "name": "note"
         },
         {
-            "name": "App"
+            "name": "app"
         },
         {
-            "name": "Book"
+            "name": "book"
         },
         {
-            "name": "Research"
+            "name": "research"
         },
         {
-            "name": "Programming"
+            "name": "programming"
         },
         {
-            "name": "Markdown"
+            "name": "markdown"
         },
         {
-            "name": "PVSystem"
+            "name": "pvsystem"
         },
         {
             "name": "todo_markdown"
