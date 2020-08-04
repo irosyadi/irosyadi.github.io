@@ -93,7 +93,7 @@
 ## Social Humanity
 - [Million Neighborhoods](https://millionneighborhoods.org/) - Map of slums or informal settlements.
 - [Sprawl Map](https://sprawlmap.org/) - Mapping the effect of urbanization.
-- 
+- [Language Maps](http://langscape.umd.edu/map.php)
 
 ## Extraterrestrial
 

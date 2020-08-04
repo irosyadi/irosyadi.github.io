@@ -71,3 +71,24 @@ Menurut DIKTI:
 Menurut DIKTI:  
 - Memiliki ISBN  
 - Bidang Penelitian, Angka Kredit Maksimal : 10  
+
+## Q&A
+- Ebook di PAK?
+    - PAK belum mengakomodasi ebook
+    - Strategi: buat versi fisik dan versi ebook
+- Royalti buku?
+    - ebook royalti bisa 25%, royalti fisik 17,5%
+- Apa beda Monograf dan Buku Referensi/Teks (apa beda suatu dan satu)?
+- Buku ajar
+    - Terkait Mata Kuliah
+- Buku yang tidak dalam Pedoman Angka Kredit
+    - Misal buku ilmiah populer, diakukan hak cipta
+- Apa bukti penyebarluasan minimal 3 PTN dan mengapa harus PTN, dan apa yang dimaksud dengan 'institusi di beberap provinsi yang memiliki bidang keilmuan yang sama dengan penulis'
+- Bolehkan buku ajar memiliki lisensi Creative Commons (CC BY SA) atau GPL
+- Hak cipta
+    - Kehati-hatian terkait hak cipta karena bisa diklaim dan berisiko finansial
+- Monograf
+    - Harus penulis tunggal
+    - menyesuaikan template
+- Buku Ajar
+    - tidak ada template khusus

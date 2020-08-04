@@ -9,6 +9,14 @@ Output: IP Address, Geolocation
 2. [IP-Address](https://www.ip-address.org/)
 3. [What is My IP](https://www.whatismyip.com/)
 4. [Toolsvoid](https://www.toolsvoid.com/what-is-my-ip-address/)
+5. [Ifconfig](https://ifconfig.me/) `curl ifconfig.me`
+6. [WTFismyIP](https://wtfismyip.com/)
+7. [IPinfo.io](https://ipinfo.io/) `curl ipinfo.io` `(Invoke-WebRequest 'ipinfo.io').Content`
+8. [HTTPBin](https://httpbin.org/ip) `curl httpbin.org/ip`
+9. [IcanHazIP](http://icanhazip.com/) `curl icanhazip.com` `(Invoke-WebRequest 'icanhazip.com').Content`
+10. [Ifconfig.io](http://ifconfig.co/) `curl ifconfig.co`
+11. [CheckIP Amazon ](http://checkip.amazonaws.com/) `curl checkip.amazonaws.com`
+12. [IPECho](https://ipecho.net/plain) `curl ipecho.net/plain`
 
 ## Reverse IP
 Input: Domain Name

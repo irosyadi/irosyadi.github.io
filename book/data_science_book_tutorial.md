@@ -54,3 +54,4 @@ The Best for Learning
 2. [Learn Data Sci](https://www.learndatasci.com/free-data-science-books/) List of Free Data Science Book
 3. [List Free Data Science Book](https://www.datasciencecentral.com/profiles/blogs/50-must-read-free-books-for-every-data-scientist-in-2020-1)
 4. [List Data Science Book with Bookdown](https://bookdown.org/)
+5. [List Data Science Deep Learning Python](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)

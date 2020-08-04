@@ -1,4 +1,8 @@
-# zettelkasten
+# Zettelkasten
+
+## Non-zettel Notetaking
+- [Notion](https://notion.so/)
+- [Brick](https://brick.do/)
 
 ## Reading
 - [Note from Emvi](https://emvi.com/blog/luhmanns-zettelkasten-a-productivity-tool-that-works-like-your-brain-N9Gd2G4aPv)

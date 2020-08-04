@@ -64,3 +64,4 @@
 ### Unknown License Python Books
 1. [Full Speed Python](https://github.com/joaoventura/full-speed-python) License:
 2. [Problem Solving with Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+3. [Learn Python Break Python](https://learnpythonbreakpython.com/)
