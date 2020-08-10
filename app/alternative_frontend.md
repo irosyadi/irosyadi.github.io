@@ -14,6 +14,19 @@
   - [Uforio](http://web.uforio.com/)
   - [Serializer.io](https://serializer.io/)
   - [Rdddeck](https://rdddeck.com/)
+  - [Scrolldit](http://www.scrolldit.com/)
+- [Reddit Images](https://old.reddit.com/)
+    - [Reddpics](https://reddpics.com/)
+    - [Redditp](https://www.redditp.com/)
+    - [RIB](http://rib.darkmirage.com/)*
+    - [danb](https://danb.me/viewr/)*
+    - [Scroller](https://scrolller.com/)
+    - [Redditgrid](https://www.redditgrid.com/)
+    - [Popular Pics](https://popular.pics/)
+- [Reddit Videos](https://old.reddit.com/)
+    - [Reddit TV](http://redditv.ca/)
+    - [Redditvids](https://redditvids.com/) Youtube only
+    - [Redv](https://redv.co/) Video Downloader
 
 - [Hacker News](https://news.ycombinator.com/)
   - [Hacker News Premii](http://hn.premii.com/)
@@ -34,6 +47,9 @@
   - [Hacker News News](https://hacker-news.news/)
   - [HNPWA](https://hnpwa.com/) List of HN Reader/Client
   - [Improve Hacker News](https://hackerbits.com/hacker-news/improve-hacker-news-ui/) List of HN Reader/Client
+- Hackernews Search
+    - [HNDex](https://hndex.org/) Hackernews content search
+    - [HN Algolia](https://hn.algolia.com/) Hackernews comment and link search
 
 - Youtube
   - [Invidio](https://invidio.us/)

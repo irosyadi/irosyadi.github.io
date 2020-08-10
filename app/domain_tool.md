@@ -1,6 +1,6 @@
 # Domain Tool
 
-> A curated list of IP and Domine Tools
+> A curated list of IP, Domain, Network Tools
 
 ## What is My IP and Geolocation
 Input: -
@@ -73,8 +73,14 @@ Check
 [Whois History](https://whois-history.whoisxmlapi.com/api)
 
 ## DNS Leak Tester
+Check what is our DNS Resolver. [LIst of the Tester](https://routersecurity.org/testdns.php)
 - [DNS Leak Test](https://www.dnsleaktest.com)
 - `nslookup myip.dnsfilter.com. 103.247.36.36`
 - [DNS Leak](https://dnsleak.com)
 - [Express VPN DNS Leak Test](https://www.expressvpn.com/dns-leak-test)
 - [IP Leak](https://ipleak.net/)
+- [Whats My DNS Server](http://www.whatsmydnsserver.com/)
+- [My NextDNS](https://my.nextdns.io/)
+- [Browserleks](https://browserleaks.com/ip) scroll down to reveal
+- [DNS Leaktest Pervect Privacy](https://www.perfect-privacy.com/en/tests/dns-leaktest)
+- [Tenta.com Test](https://tenta.com/test/) the most complete
