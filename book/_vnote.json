@@ -16,7 +16,7 @@
             "attachments": [
             ],
             "created_time": "2020-06-17T05:32:26Z",
-            "modified_time": "2020-08-10T12:35:56Z",
+            "modified_time": "2020-08-17T10:41:17Z",
             "name": "2020-06-17-free-open-book.md",
             "tags": [
             ]
@@ -56,7 +56,7 @@
             "attachments": [
             ],
             "created_time": "2020-06-19T14:29:07Z",
-            "modified_time": "2020-08-10T13:05:29Z",
+            "modified_time": "2020-08-17T10:44:26Z",
             "name": "2020-06-19-machine-learning-book-tutorial.md",
             "tags": [
             ]
@@ -76,7 +76,7 @@
             "attachments": [
             ],
             "created_time": "2020-06-28T10:45:18Z",
-            "modified_time": "2020-08-10T13:05:59Z",
+            "modified_time": "2020-08-17T10:42:14Z",
             "name": "2020-06-28-python-resource.md",
             "tags": [
             ]
@@ -86,7 +86,7 @@
             "attachments": [
             ],
             "created_time": "2020-07-11T07:58:19Z",
-            "modified_time": "2020-08-10T13:06:09Z",
+            "modified_time": "2020-08-17T10:44:39Z",
             "name": "2020-07-11-data-science-book-tutorial.md",
             "tags": [
             ]
@@ -138,6 +138,16 @@
             "created_time": "2020-08-09T12:31:22Z",
             "modified_time": "2020-08-10T13:07:10Z",
             "name": "2020-08-09-math-book-tutorial.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-08-17T10:08:41Z",
+            "modified_time": "2020-08-17T10:48:58Z",
+            "name": "2020-08-17-deep-learning-book-tutorial.md",
             "tags": [
             ]
         }
