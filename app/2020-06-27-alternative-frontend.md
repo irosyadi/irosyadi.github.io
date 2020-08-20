@@ -59,6 +59,7 @@ tags: alternative frontend website
 - Hackernews Search
     - [HNDex](https://hndex.org/) Hackernews content search
     - [HN Algolia](https://hn.algolia.com/) Hackernews comment and link search
+    - [HNProfile](https://hnprofile.com/) Hackernews profile and topic search
 
 - Youtube
   - [Invidio](https://invidio.us/)
