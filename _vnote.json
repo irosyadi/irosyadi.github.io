@@ -20,6 +20,9 @@
         },
         {
             "name": "markdown"
+        },
+        {
+            "name": "development"
         }
     ],
     "tags": [
