@@ -5,7 +5,7 @@
     "footer": "©irosyadi, 2020",
     "show_suffix": false,
     "load_before_search": true,
-    "fuzzy_search": false,
+    "fuzzy_search": true,
     "markdown":
     {
         "html": true,
