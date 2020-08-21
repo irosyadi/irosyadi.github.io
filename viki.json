@@ -1,17 +1,17 @@
 {
-    "brand": "irosyadi",
-    "title": "a note of life",
+    "brand": "viki",
+    "title": "Viki - A simple Wiki page in Markdown from notebook of VNote",
     "favicon": "https://github.com/tamlok/viki/raw/master/resources/viki.ico",
-    "footer": "©irosyadi, 2020",
+    "footer": "",
     "show_suffix": false,
     "load_before_search": true,
-    "fuzzy_search": true,
+    "fuzzy_search": false,
     "markdown":
     {
         "html": true,
         "breaks": true,
-        "linkify": true,
-        "typographer": true,
+        "linkify": false,
+        "typographer": false,
         "lang_prefix": "lang-",
         "image_caption": true,
         "plantuml_server": "https://www.plantuml.com/plantuml",
