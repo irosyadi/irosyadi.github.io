@@ -4,12 +4,14 @@ author: irosyadi
 title:  About Blog
 date: 2020-06-01 20:09:34
 path: /blog
+category: blog
 tags: about blog
+draft: false
 ---
 
-# About Blog
-
 This folder contain my weekly notes for everything I found and thought. They will be messed notes since my approach is *just write*. So they are just like semi-*zettelkasten*. Sometimes I will write in English, in the other times it will in Indonesian.
+
+# About Blog
 
 The notes work as a starting point to more deep and through notes in another folder. The flow will be look like this:
 1. Write everything in a single weekly document into [Blog](../blog/about_blog.md) folder or into [bookmarks](../blog/bookmarks.md) note.

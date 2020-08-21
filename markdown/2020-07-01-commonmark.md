@@ -4,7 +4,9 @@ author: irosyadi
 title:  Markdown with Commonmark
 date: 2020-07-01 21:16:49
 path: /markdown
+category: markdown
 tags: markdown commonmark
+draft: false
 ---
 
 # Markdown with Commonmark

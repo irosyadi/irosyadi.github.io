@@ -4,8 +4,12 @@ author: irosyadi
 title:  Bookmarks
 date: 2020-07-03 20:10:15
 path: /blog
+category: blog
 tags: bookmark
+draft: false
 ---
+
+These are my bookmarks in markdown. I have many competing bookmarking tools, but I'm trying to settle it down with markdown notes.
 
 # Bookmarks
 

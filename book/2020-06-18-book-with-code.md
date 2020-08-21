@@ -4,7 +4,9 @@ author: irosyadi
 title:  Book with Code
 date: 2020-08-10 19:36:12
 path: /book
-tags: book code
+category: book
+tags: book code  
+draft: false
 ---
 
 # List Book with Code

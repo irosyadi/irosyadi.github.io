@@ -4,7 +4,9 @@ author: irosyadi
 title:  Extended Syntax of Markdown
 date: 2020-07-01 21:13:34
 path: /markdown
+category: markdown
 tags: extended syntax markdown
+draft: false
 ---
 
 # Extended Syntax of Markdown

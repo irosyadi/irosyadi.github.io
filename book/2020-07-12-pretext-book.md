@@ -4,7 +4,9 @@ author: irosyadi
 title:  Pretext Book
 date: 2020-07-12 19:46:07
 path: /book
+category: book
 tags: pretext open book
+draft: false
 ---
 
 # Pretext Book

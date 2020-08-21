@@ -4,7 +4,9 @@ author: irosyadi
 title:  Browser Extension and Add-On
 date: 2020-08-16 19:57:52
 path: /app
+category: app
 tags: browser extension add-on
+draft: false
 ---
 
 # Browser Extension and Add-On

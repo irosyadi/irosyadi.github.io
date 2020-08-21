@@ -4,7 +4,9 @@ author: irosyadi
 title:  List of Interactive Books
 date: 2020-08-10 19:36:40
 path: /book
+category: book
 tags: list interactive book
+draft: false
 ---
 
 # List of Interactive Books

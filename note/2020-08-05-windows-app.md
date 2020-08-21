@@ -4,8 +4,12 @@ author: irosyadi
 title:  List of Windows App
 date: 2020-08-05 20:34:24
 path: /note
+category: note
 tags: list windows app
+draft: false
 ---
+
+This is list of awesome apps for Windows 10.
 
 # List of Windows App
 

@@ -19,19 +19,7 @@
             "name": "book"
         },
         {
-            "name": "research"
-        },
-        {
-            "name": "programming"
-        },
-        {
             "name": "markdown"
-        },
-        {
-            "name": "pvsystem"
-        },
-        {
-            "name": "todo_markdown"
         }
     ],
     "tags": [

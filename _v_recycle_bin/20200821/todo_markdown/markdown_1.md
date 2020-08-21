@@ -1,19 +1,25 @@
 ---
 layout: default
 author: irosyadi
-title:  Getting Started about Markdown
-date: 2020-07-01 21:14:33
-path: /markdown
-category: markdown
-tags: markdown
-draft: false
+title:  Title
+date: 2020-08-11 04:29:23
+path: /folder
+tags: tag tag
 ---
 
-# Getting Started about Markdown
+# Mengenal Markdown
 
-## What's Markdown?
+## Sejarah Menulis dan Format Penulisan
 
-Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by [John Gruber](https://daringfireball.net/projects/markdown/) in 2004, Markdown is now one of the world's most popular markup languages.
+Pada awalnya kita menggores tanah atau batu untuk sekedar menuliskan.
+Lalu
+
+## Apa itu Markdown?
+
+Markdown adalah bahasa *markup* ringan yang dipakai untuk memformat teks dalam dokumen.
+
+
+is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by [John Gruber](https://daringfireball.net/projects/markdown/) in 2004, Markdown is now one of the world's most popular markup languages.
 
 Using Markdown is different than using a [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn't like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
 

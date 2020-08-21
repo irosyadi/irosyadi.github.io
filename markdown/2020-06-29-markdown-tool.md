@@ -4,7 +4,9 @@ author: irosyadi
 title:  List of Markdown Tools
 date: 2020-08-10 21:12:55
 path: /markdown
+category: markdown
 tags: list markdown tool
+draft: false
 ---
 
 # List of Markdown Tools

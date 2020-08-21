@@ -4,7 +4,9 @@ author: irosyadi
 title:  Math Book and Tutorial
 date: 2020-08-09 19:48:29
 path: /book
+category: book
 tags: math book tutorial
+draft: false
 ---
 
 # Math Book and Tutorial

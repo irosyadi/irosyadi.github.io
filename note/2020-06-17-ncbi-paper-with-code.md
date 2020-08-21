@@ -3,12 +3,15 @@ layout: default
 author: irosyadi
 title:  NCBI Papers with Code
 date: 2020-06-17 20:07:45
-path: /research
+path: /note
+category: note
 tags: ncbi paper code
+draft: false
 ---
 
+List of awesome NCBI Papers with Code Suplemment.
+
 # NCBI Papers with Code
-Awesome NCBI Papers with Code
 
 ## CNN
 

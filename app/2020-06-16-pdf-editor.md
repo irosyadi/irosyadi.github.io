@@ -4,8 +4,12 @@ author: irosyadi
 title:  PDF Editor
 date: 2020-06-16 16:11:58
 path: /app
+category: app
 tags: pdf editor
+draft: false
 ---
+
+List of PDF editor.
 
 # PDF Editor
 

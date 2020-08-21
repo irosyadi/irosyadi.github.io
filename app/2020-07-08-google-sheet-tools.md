@@ -4,7 +4,9 @@ author: irosyadi
 title:  Google Sheet Tools
 date: 2020-07-08 20:03:26
 path: /app
+category: app
 tags: google sheet tool
+draft: false
 ---
 
 # Google Sheet Tools

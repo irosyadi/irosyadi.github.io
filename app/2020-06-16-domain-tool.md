@@ -4,12 +4,14 @@ author: irosyadi
 title:  Domain Tool
 date: 2020-06-16 19:52:40
 path: /app
+category: app
 tags: awesome domain tool
+draft: false
 ---
 
-# Domain Tool
+A curated list of IP, Domain, Network Tools
 
-> A curated list of IP, Domain, Network Tools
+# Domain Tools
 
 ## What is My IP and Geolocation
 Input: -

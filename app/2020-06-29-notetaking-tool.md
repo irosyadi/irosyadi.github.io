@@ -4,7 +4,9 @@ author: irosyadi
 title:  List of Notetaking Tools
 date: 2020-06-29 20:00:31
 path: /app
+category: app
 tags: list notetaking tool
+draft: false
 ---
 
 # List of Notetaking Tools

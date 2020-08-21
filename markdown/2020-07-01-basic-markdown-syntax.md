@@ -4,7 +4,9 @@ author: irosyadi
 title:  Basic Syntax of Markdown
 date: 2020-07-01 21:12:08
 path: /markdown
-tags: basic syntax markdown
+category: markdown
+tags: basic syntax markdown  
+draft: false
 ---
 
 # Basic Syntax of Markdown

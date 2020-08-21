@@ -4,8 +4,12 @@ author: irosyadi
 title:  Image Editor
 date: 2020-06-16 16:12:32
 path: /app
+category: app
 tags: image editor
+draft: false
 ---
+
+List of image editor
 
 # Image Editor
 
