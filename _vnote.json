@@ -23,6 +23,9 @@
         },
         {
             "name": "development"
+        },
+        {
+            "name": "course"
         }
     ],
     "tags": [

@@ -1,0 +1,48 @@
+{
+    "created_time": "2020-08-31T06:54:38Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-08-31T06:55:44Z",
+            "modified_time": "2020-08-31T07:29:21Z",
+            "name": "2020-08-31-fundamentals-of-electrical-engineering.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-08-31T06:56:28Z",
+            "modified_time": "2020-08-31T07:11:41Z",
+            "name": "2020-08-31-control-systems.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-08-31T06:56:48Z",
+            "modified_time": "2020-08-31T06:58:56Z",
+            "name": "2020-08-31-linear-algebra.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-08-31T06:57:09Z",
+            "modified_time": "2020-08-31T06:59:20Z",
+            "name": "2020-08-31-machine-learning.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

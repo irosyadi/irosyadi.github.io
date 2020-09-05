@@ -134,7 +134,7 @@ My upcoming planned books and tutorials.
 - TKE194021 Proyek Keteknikan
 - TKE194917 Sistem Adaptif
 - TKE194918 Machine Learning
-    - Books: A Course in Machine Learning Hal Daume
+    - Books: [A Course in Machine Learning by Hal Daume](http://ciml.info/) [Github](https://github.com/hal3/ciml)
 
 ## Course Schedule
 - TKE194917	Sistem Adaptif	AZIS WISNU WIDHI NUGRAHA	A	SELASA	09:30 - 12:00	GEDUNG TEKNIK E 202	30	0
