@@ -1,7 +1,7 @@
 {
     "brand": "irosyadi",
     "title": "a note of life",
-    "favicon": "https://github.com/irosyadi/irosyadi.github.io/blob/master/favicon.ico",
+    "favicon": "https://raw.githubusercontent.com/irosyadi/irosyadi.github.io/master/favicon.ico",
     "footer": "©irosyadi, 2020",
     "show_suffix": false,
     "load_before_search": true,
