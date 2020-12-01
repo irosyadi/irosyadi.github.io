@@ -1604,275 +1604,274 @@ draft: false
 ## Flags
 
 
-|            |                  Annotation                  |                 Shortcodes                 |                    Tags                    |
-| ---------- | -------------------------------------------- | ------------------------------------------ | ------------------------------------------ |
-| 269 emojis |                                              |                                            |                                            |
-| 🏁         | chequered flag                               | :checkered_flag:                           | checkered, chequered, racing               |
-| 🚩         | triangular flag                              | :triangular\_flag\_on_post:                | post                                       |
-| 🎌         | crossed flags                                | :crossed_flags:                            | celebration, cross, crossed, japanese      |
-| 🏴         | black flag                                   | :black_flag:                               | waving                                     |
-| 🏳️         | white flag                                   | :white_flag:                               | waving                                     |
-| 🏳️‍🌈         | rainbow flag                                 | :rainbow_flag:                             | pride, rainbow                             |
-| 🏳️‍⚧️       | transgender flag                             |                                            | flag, light blue, pink, transgender, white |
-| 🏴‍☠️       | pirate flag                                  | :pirate_flag:                              | jolly roger, pirate, plunder, treasure     |
-| 🇦🇨         | flag: Ascension Island                       | :ascension_island:                         | AC, flag                                   |
-| 🇦🇩         | flag: Andorra                                | :andorra:                                  | AD, flag                                   |
-| 🇦🇪         | flag: United Arab Emirates                   | :united\_arab\_emirates:                   | AE, flag                                   |
-| 🇦🇫         | flag: Afghanistan                            | :afghanistan:                              | AF, flag                                   |
-| 🇦🇬         | flag: Antigua & Barbuda                      | :antigua_barbuda:                          | AG, flag                                   |
-| 🇦🇮          | flag: Anguilla                               | :anguilla:                                 | AI, flag                                   |
-| 🇦🇱         | flag: Albania                                | :albania:                                  | AL, flag                                   |
-| 🇦🇲         | flag: Armenia                                | :armenia:                                  | AM, flag                                   |
-| 🇦🇴         | flag: Angola                                 | :angola:                                   | AO, flag                                   |
-| 🇦🇶         | flag: Antarctica                             | :antarctica:                               | AQ, flag                                   |
-| 🇦🇷         | flag: Argentina                              | :argentina:                                | AR, flag                                   |
-| 🇦🇸         | flag: American Samoa                         | :american_samoa:                           | AS, flag                                   |
-| 🇦🇹         | flag: Austria                                | :austria:                                  | AT, flag                                   |
-| 🇦🇺         | flag: Australia                              | :australia:                                | AU, flag                                   |
-| 🇦🇼         | flag: Aruba                                  | :aruba:                                    | AW, flag                                   |
-| 🇦🇽         | flag: Åland Islands                          | :aland_islands:                            | AX, flag                                   |
-| 🇦🇿         | flag: Azerbaijan                             | :azerbaijan:                               | AZ, flag                                   |
-| 🇧🇦         | flag: Bosnia & Herzegovina                   | :bosnia_herzegovina:                       | BA, flag                                   |
-| 🇧🇧         | flag: Barbados                               | :barbados:                                 | BB, flag                                   |
-| 🇧🇩         | flag: Bangladesh                             | :bangladesh:                               | BD, flag                                   |
-| 🇧🇪         | flag: Belgium                                | :belgium:                                  | BE, flag                                   |
-| 🇧🇫         | flag: Burkina Faso                           | :burkina_faso:                             | BF, flag                                   |
-| 🇧🇬         | flag: Bulgaria                               | :bulgaria:                                 | BG, flag                                   |
-| 🇧🇭         | flag: Bahrain                                | :bahrain:                                  | BH, flag                                   |
-| 🇧🇮          | flag: Burundi                                | :burundi:                                  | BI, flag                                   |
-| 🇧🇯          | flag: Benin                                  | :benin:                                    | BJ, flag                                   |
-| 🇧🇱         | flag: St. Barthélemy                         | :st_barthelemy:                            | BL, flag                                   |
-| 🇧🇲         | flag: Bermuda                                | :bermuda:                                  | BM, flag                                   |
-| 🇧🇳         | flag: Brunei                                 | :brunei:                                   | BN, flag                                   |
-| 🇧🇴         | flag: Bolivia                                | :bolivia:                                  | BO, flag                                   |
-| 🇧🇶         | flag: Caribbean Netherlands                  | :caribbean_netherlands:                    | BQ, flag                                   |
-| 🇧🇷         | flag: Brazil                                 | :brazil:                                   | BR, flag                                   |
-| 🇧🇸         | flag: Bahamas                                | :bahamas:                                  | BS, flag                                   |
-| 🇧🇹         | flag: Bhutan                                 | :bhutan:                                   | BT, flag                                   |
-| 🇧🇻         | flag: Bouvet Island                          | :bouvet_island:                            | BV, flag                                   |
-| 🇧🇼         | flag: Botswana                               | :botswana:                                 | BW, flag                                   |
-| 🇧🇾         | flag: Belarus                                | :belarus:                                  | BY, flag                                   |
-| 🇧🇿         | flag: Belize                                 | :belize:                                   | BZ, flag                                   |
-| 🇨🇦         | flag: Canada                                 | :canada:                                   | CA, flag                                   |
-| 🇨🇨         | flag: Cocos (Keeling) Islands                | :cocos_islands:                            | CC, flag                                   |
-| 🇨🇩         | flag: Congo - Kinshasa                       | :congo_kinshasa:                           | CD, flag                                   |
-| 🇨🇫         | flag: Central African Republic               | :central\_african\_republic:               | CF, flag                                   |
-| 🇨🇬         | flag: Congo - Brazzaville                    | :congo_brazzaville:                        | CG, flag                                   |
-| 🇨🇭         | flag: Switzerland                            | :switzerland:                              | CH, flag                                   |
-| 🇨🇮          | flag: Côte d’Ivoire                          | :cote_divoire:                             | CI, flag                                   |
-| 🇨🇰         | flag: Cook Islands                           | :cook_islands:                             | CK, flag                                   |
-| 🇨🇱          | flag: Chile                                  | :chile:                                    | CL, flag                                   |
-| 🇨🇲         | flag: Cameroon                               | :cameroon:                                 | CM, flag                                   |
-| 🇨🇳         | flag: China                                  | :cn:                                       | CN, flag                                   |
-| 🇨🇴         | flag: Colombia                               | :colombia:                                 | CO, flag                                   |
-| 🇨🇵         | flag: Clipperton Island                      | :clipperton_island:                        | CP, flag                                   |
-| 🇨🇷         | flag: Costa Rica                             | :costa_rica:                               | CR, flag                                   |
-| 🇨🇺         | flag: Cuba                                   | :cuba:                                     | CU, flag                                   |
-| 🇨🇻         | flag: Cape Verde                             | :cape_verde:                               | CV, flag                                   |
-| 🇨🇼         | flag: Curaçao                                | :curacao:                                  | CW, flag                                   |
-| 🇨🇽         | flag: Christmas Island                       | :christmas_island:                         | CX, flag                                   |
-| 🇨🇾         | flag: Cyprus                                 | :cyprus:                                   | CY, flag                                   |
-| 🇨🇿         | flag: Czechia                                | :czech_republic:                           | CZ, flag                                   |
-| 🇩🇪         | flag: Germany                                | :de:                                       | DE, flag                                   |
-| 🇩🇬         | flag: Diego Garcia                           | :diego_garcia:                             | DG, flag                                   |
-| 🇩🇯         | flag: Djibouti                               | :djibouti:                                 | DJ, flag                                   |
-| 🇩🇰         | flag: Denmark                                | :denmark:                                  | DK, flag                                   |
-| 🇩🇲         | flag: Dominica                               | :dominica:                                 | DM, flag                                   |
-| 🇩🇴         | flag: Dominican Republic                     | :dominican_republic:                       | DO, flag                                   |
-| 🇩🇿         | flag: Algeria                                | :algeria:                                  | DZ, flag                                   |
-| 🇪🇦         | flag: Ceuta & Melilla                        | :ceuta_melilla:                            | EA, flag                                   |
-| 🇪🇨         | flag: Ecuador                                | :ecuador:                                  | EC, flag                                   |
-| 🇪🇪         | flag: Estonia                                | :estonia:                                  | EE, flag                                   |
-| 🇪🇬         | flag: Egypt                                  | :egypt:                                    | EG, flag                                   |
-| 🇪🇭         | flag: Western Sahara                         | :western_sahara:                           | EH, flag                                   |
-| 🇪🇷         | flag: Eritrea                                | :eritrea:                                  | ER, flag                                   |
-| 🇪🇸         | flag: Spain                                  | :es:                                       | ES, flag                                   |
-| 🇪🇹         | flag: Ethiopia                               | :ethiopia:                                 | ET, flag                                   |
-| 🇪🇺         | flag: European Union                         | :eu::european_union:                       | EU, flag                                   |
-| 🇫🇮          | flag: Finland                                | :finland:                                  | FI, flag                                   |
-| 🇫🇯          | flag: Fiji                                   | :fiji:                                     | FJ, flag                                   |
-| 🇫🇰         | flag: Falkland Islands                       | :falkland_islands:                         | FK, flag                                   |
-| 🇫🇲         | flag: Micronesia                             | :micronesia:                               | FM, flag                                   |
-| 🇫🇴         | flag: Faroe Islands                          | :faroe_islands:                            | FO, flag                                   |
-| 🇫🇷         | flag: France                                 | :fr:                                       | FR, flag                                   |
-| 🇬🇦         | flag: Gabon                                  | :gabon:                                    | GA, flag                                   |
-| 🇬🇧         | flag: United Kingdom                         | :gb::uk:                                   | GB, flag                                   |
-| 🇬🇩         | flag: Grenada                                | :grenada:                                  | GD, flag                                   |
-| 🇬🇪         | flag: Georgia                                | :georgia:                                  | GE, flag                                   |
-| 🇬🇫         | flag: French Guiana                          | :french_guiana:                            | GF, flag                                   |
-| 🇬🇬         | flag: Guernsey                               | :guernsey:                                 | GG, flag                                   |
-| 🇬🇭         | flag: Ghana                                  | :ghana:                                    | GH, flag                                   |
-| 🇬🇮          | flag: Gibraltar                              | :gibraltar:                                | GI, flag                                   |
-| 🇬🇱         | flag: Greenland                              | :greenland:                                | GL, flag                                   |
-| 🇬🇲         | flag: Gambia                                 | :gambia:                                   | GM, flag                                   |
-| 🇬🇳         | flag: Guinea                                 | :guinea:                                   | GN, flag                                   |
-| 🇬🇵         | flag: Guadeloupe                             | :guadeloupe:                               | GP, flag                                   |
-| 🇬🇶         | flag: Equatorial Guinea                      | :equatorial_guinea:                        | GQ, flag                                   |
-| 🇬🇷         | flag: Greece                                 | :greece:                                   | GR, flag                                   |
-| 🇬🇸         | flag: South Georgia & South Sandwich Islands | :south\_georgia\_south\_sandwich\_islands: | GS, flag                                   |
-| 🇬🇹         | flag: Guatemala                              | :guatemala:                                | GT, flag                                   |
-| 🇬🇺         | flag: Guam                                   | :guam:                                     | GU, flag                                   |
-| 🇬🇼         | flag: Guinea-Bissau                          | :guinea_bissau:                            | GW, flag                                   |
-| 🇬🇾         | flag: Guyana                                 | :guyana:                                   | GY, flag                                   |
-| 🇭🇰         | flag: Hong Kong SAR China                    | :hong_kong:                                | HK, flag                                   |
-| 🇭🇲         | flag: Heard & McDonald Islands               | :heard\_mcdonald\_islands:                 | HM, flag                                   |
-| 🇭🇳         | flag: Honduras                               | :honduras:                                 | HN, flag                                   |
-| 🇭🇷         | flag: Croatia                                | :croatia:                                  | HR, flag                                   |
-| 🇭🇹         | flag: Haiti                                  | :haiti:                                    | HT, flag                                   |
-| 🇭🇺         | flag: Hungary                                | :hungary:                                  | HU, flag                                   |
-| 🇮🇨          | flag: Canary Islands                         | :canary_islands:                           | IC, flag                                   |
-| 🇮🇩         | flag: Indonesia                              | :indonesia:                                | ID, flag                                   |
-| 🇮🇪          | flag: Ireland                                | :ireland:                                  | IE, flag                                   |
-| 🇮🇱          | flag: Israel                                 | :israel:                                   | IL, flag                                   |
-| 🇮🇲         | flag: Isle of Man                            | :isle\_of\_man:                            | IM, flag                                   |
-| 🇮🇳         | flag: India                                  | :india:                                    | IN, flag                                   |
-| 🇮🇴         | flag: British Indian Ocean Territory         | :british\_indian\_ocean_territory:         | IO, flag                                   |
-| 🇮🇶         | flag: Iraq                                   | :iraq:                                     | IQ, flag                                   |
-| 🇮🇷          | flag: Iran                                   | :iran:                                     | IR, flag                                   |
-| 🇮🇸          | flag: Iceland                                | :iceland:                                  | IS, flag                                   |
-| 🇮🇹          | flag: Italy                                  | :it:                                       | IT, flag                                   |
-| 🇯🇪          | flag: Jersey                                 | :jersey:                                   | JE, flag                                   |
-| 🇯🇲         | flag: Jamaica                                | :jamaica:                                  | JM, flag                                   |
-| 🇯🇴         | flag: Jordan                                 | :jordan:                                   | JO, flag                                   |
-| 🇯🇵          | flag: Japan                                  | :jp:                                       | JP, flag                                   |
-| 🇰🇪         | flag: Kenya                                  | :kenya:                                    | KE, flag                                   |
-| 🇰🇬         | flag: Kyrgyzstan                             | :kyrgyzstan:                               | KG, flag                                   |
-| 🇰🇭         | flag: Cambodia                               | :cambodia:                                 | KH, flag                                   |
-| 🇰🇮          | flag: Kiribati                               | :kiribati:                                 | KI, flag                                   |
-| 🇰🇲         | flag: Comoros                                | :comoros:                                  | KM, flag                                   |
-| 🇰🇳         | flag: St. Kitts & Nevis                      | :st\_kitts\_nevis:                         | KN, flag                                   |
-| 🇰🇵         | flag: North Korea                            | :north_korea:                              | KP, flag                                   |
-| 🇰🇷         | flag: South Korea                            | :kr:                                       | KR, flag                                   |
-| 🇰🇼         | flag: Kuwait                                 | :kuwait:                                   | KW, flag                                   |
-| 🇰🇾         | flag: Cayman Islands                         | :cayman_islands:                           | KY, flag                                   |
-| 🇰🇿         | flag: Kazakhstan                             | :kazakhstan:                               | KZ, flag                                   |
-| 🇱🇦         | flag: Laos                                   | :laos:                                     | LA, flag                                   |
-| 🇱🇧         | flag: Lebanon                                | :lebanon:                                  | LB, flag                                   |
-| 🇱🇨          | flag: St. Lucia                              | :st_lucia:                                 | LC, flag                                   |
-| 🇱🇮          | flag: Liechtenstein                          | :liechtenstein:                            | LI, flag                                   |
-| 🇱🇰         | flag: Sri Lanka                              | :sri_lanka:                                | LK, flag                                   |
-| 🇱🇷          | flag: Liberia                                | :liberia:                                  | LR, flag                                   |
-| 🇱🇸          | flag: Lesotho                                | :lesotho:                                  | LS, flag                                   |
-| 🇱🇹          | flag: Lithuania                              | :lithuania:                                | LT, flag                                   |
-| 🇱🇺         | flag: Luxembourg                             | :luxembourg:                               | LU, flag                                   |
-| 🇱🇻         | flag: Latvia                                 | :latvia:                                   | LV, flag                                   |
-| 🇱🇾          | flag: Libya                                  | :libya:                                    | LY, flag                                   |
-| 🇲🇦         | flag: Morocco                                | :morocco:                                  | MA, flag                                   |
-| 🇲🇨         | flag: Monaco                                 | :monaco:                                   | MC, flag                                   |
-| 🇲🇩         | flag: Moldova                                | :moldova:                                  | MD, flag                                   |
-| 🇲🇪         | flag: Montenegro                             | :montenegro:                               | ME, flag                                   |
-| 🇲🇫         | flag: St. Martin                             | :st_martin:                                | MF, flag                                   |
-| 🇲🇬         | flag: Madagascar                             | :madagascar:                               | MG, flag                                   |
-| 🇲🇭         | flag: Marshall Islands                       | :marshall_islands:                         | MH, flag                                   |
-| 🇲🇰         | flag: North Macedonia                        | :macedonia:                                | MK, flag                                   |
-| 🇲🇱         | flag: Mali                                   | :mali:                                     | ML, flag                                   |
-| 🇲🇲         | flag: Myanmar (Burma)                        | :myanmar:                                  | MM, flag                                   |
-| 🇲🇳         | flag: Mongolia                               | :mongolia:                                 | MN, flag                                   |
-| 🇲🇴         | flag: Macao SAR China                        | :macau:                                    | MO, flag                                   |
-| 🇲🇵         | flag: Northern Mariana Islands               | :northern\_mariana\_islands:               | MP, flag                                   |
-| 🇲🇶         | flag: Martinique                             | :martinique:                               | MQ, flag                                   |
-| 🇲🇷         | flag: Mauritania                             | :mauritania:                               | MR, flag                                   |
-| 🇲🇸         | flag: Montserrat                             | :montserrat:                               | MS, flag                                   |
-| 🇲🇹         | flag: Malta                                  | :malta:                                    | MT, flag                                   |
-| 🇲🇺         | flag: Mauritius                              | :mauritius:                                | MU, flag                                   |
-| 🇲🇻         | flag: Maldives                               | :maldives:                                 | MV, flag                                   |
-| 🇲🇼        | flag: Malawi                                 | :malawi:                                   | MW, flag                                   |
-| 🇲🇽         | flag: Mexico                                 | :mexico:                                   | MX, flag                                   |
-| 🇲🇾         | flag: Malaysia                               | :malaysia:                                 | MY, flag                                   |
-| 🇲🇿         | flag: Mozambique                             | :mozambique:                               | MZ, flag                                   |
-| 🇳🇦         | flag: Namibia                                | :namibia:                                  | NA, flag                                   |
-| 🇳🇨         | flag: New Caledonia                          | :new_caledonia:                            | NC, flag                                   |
-| 🇳🇪         | flag: Niger                                  | :niger:                                    | NE, flag                                   |
-| 🇳🇫         | flag: Norfolk Island                         | :norfolk_island:                           | NF, flag                                   |
-| 🇳🇬         | flag: Nigeria                                | :nigeria:                                  | NG, flag                                   |
-| 🇳🇮         | flag: Nicaragua                              | :nicaragua:                                | NI, flag                                   |
-| 🇳🇱         | flag: Netherlands                            | :netherlands:                              | NL, flag                                   |
-| 🇳🇴         | flag: Norway                                 | :norway:                                   | NO, flag                                   |
-| 🇳🇵         | flag: Nepal                                  | :nepal:                                    | NP, flag                                   |
-| 🇳🇷         | flag: Nauru                                  | :nauru:                                    | NR, flag                                   |
-| 🇳🇺         | flag: Niue                                   | :niue:                                     | NU, flag                                   |
-| 🇳🇿         | flag: New Zealand                            | :new_zealand:                              | NZ, flag                                   |
-| 🇴🇲         | flag: Oman                                   | :oman:                                     | OM, flag                                   |
-| 🇵🇦         | flag: Panama                                 | :panama:                                   | PA, flag                                   |
-| 🇵🇪         | flag: Peru                                   | :peru:                                     | PE, flag                                   |
-| 🇵🇫         | flag: French Polynesia                       | :french_polynesia:                         | PF, flag                                   |
-| 🇵🇬         | flag: Papua New Guinea                       | :papua\_new\_guinea:                       | PG, flag                                   |
-| 🇵🇭         | flag: Philippines                            | :philippines:                              | PH, flag                                   |
-| 🇵🇰         | flag: Pakistan                               | :pakistan:                                 | PK, flag                                   |
-| 🇵🇱          | flag: Poland                                 | :poland:                                   | PL, flag                                   |
-| 🇵🇲         | flag: St. Pierre & Miquelon                  | :st\_pierre\_miquelon:                     | PM, flag                                   |
-| 🇵🇳         | flag: Pitcairn Islands                       | :pitcairn_islands:                         | PN, flag                                   |
-| 🇵🇷         | flag: Puerto Rico                            | :puerto_rico:                              | PR, flag                                   |
-| 🇵🇸         | flag: Palestinian Territories                | :palestinian_territories:                  | PS, flag                                   |
-| 🇵🇹         | flag: Portugal                               | :portugal:                                 | PT, flag                                   |
-| 🇵🇼         | flag: Palau                                  | :palau:                                    | PW, flag                                   |
-| 🇵🇾         | flag: Paraguay                               | :paraguay:                                 | PY, flag                                   |
-| 🇶🇦         | flag: Qatar                                  | :qatar:                                    | QA, flag                                   |
-| 🇷🇪         | flag: Réunion                                | :reunion:                                  | RE, flag                                   |
-| 🇷🇴         | flag: Romania                                | :romania:                                  | RO, flag                                   |
-| 🇷🇸         | flag: Serbia                                 | :serbia:                                   | RS, flag                                   |
-| 🇷🇺         | flag: Russia                                 | :ru:                                       | RU, flag                                   |
-| 🇷🇼         | flag: Rwanda                                 | :rwanda:                                   | RW, flag                                   |
-| 🇸🇦         | flag: Saudi Arabia                           | :saudi_arabia:                             | SA, flag                                   |
-| 🇸🇧         | flag: Solomon Islands                        | :solomon_islands:                          | SB, flag                                   |
-| 🇸🇨         | flag: Seychelles                             | :seychelles:                               | SC, flag                                   |
-| 🇸🇩         | flag: Sudan                                  | :sudan:                                    | SD, flag                                   |
-| 🇸🇪         | flag: Sweden                                 | :sweden:                                   | SE, flag                                   |
-| 🇸🇬         | flag: Singapore                              | :singapore:                                | SG, flag                                   |
-| 🇸🇭         | flag: St. Helena                             | :st_helena:                                | SH, flag                                   |
-| 🇸🇮          | flag: Slovenia                               | :slovenia:                                 | SI, flag                                   |
-| 🇸🇯          | flag: Svalbard & Jan Mayen                   | :svalbard\_jan\_mayen:                     | SJ, flag                                   |
-| 🇸🇰         | flag: Slovakia                               | :slovakia:                                 | SK, flag                                   |
-| 🇸🇱          | flag: Sierra Leone                           | :sierra_leone:                             | SL, flag                                   |
-| 🇸🇲         | flag: San Marino                             | :san_marino:                               | SM, flag                                   |
-| 🇸🇳         | flag: Senegal                                | :senegal:                                  | SN, flag                                   |
-| 🇸🇴         | flag: Somalia                                | :somalia:                                  | SO, flag                                   |
-| 🇸🇷         | flag: Suriname                               | :suriname:                                 | SR, flag                                   |
-| 🇸🇸         | flag: South Sudan                            | :south_sudan:                              | SS, flag                                   |
-| 🇸🇹         | flag: São Tomé & Príncipe                    | :sao\_tome\_principe:                      | ST, flag                                   |
-| 🇸🇻         | flag: El Salvador                            | :el_salvador:                              | SV, flag                                   |
-| 🇸🇽         | flag: Sint Maarten                           | :sint_maarten:                             | SX, flag                                   |
-| 🇸🇾         | flag: Syria                                  | :syria:                                    | SY, flag                                   |
-| 🇸🇿         | flag: Eswatini                               | :swaziland:                                | SZ, flag                                   |
-| 🇹🇦         | flag: Tristan da Cunha                       | :tristan\_da\_cunha:                       | TA, flag                                   |
-| 🇹🇨         | flag: Turks & Caicos Islands                 | :turks\_caicos\_islands:                   | TC, flag                                   |
-| 🇹🇩         | flag: Chad                                   | :chad:                                     | TD, flag                                   |
-| 🇹🇫         | flag: French Southern Territories            | :french\_southern\_territories:            | TF, flag                                   |
-| 🇹🇬         | flag: Togo                                   | :togo:                                     | TG, flag                                   |
-| 🇹🇭         | flag: Thailand                               | :thailand:                                 | TH, flag                                   |
-| 🇹🇯          | flag: Tajikistan                             | :tajikistan:                               | TJ, flag                                   |
-| 🇹🇰         | flag: Tokelau                                | :tokelau:                                  | TK, flag                                   |
-| 🇹🇱          | flag: Timor-Leste                            | :timor_leste:                              | TL, flag                                   |
-| 🇹🇲         | flag: Turkmenistan                           | :turkmenistan:                             | TM, flag                                   |
-| 🇹🇳         | flag: Tunisia                                | :tunisia:                                  | TN, flag                                   |
-| 🇹🇴         | flag: Tonga                                  | :tonga:                                    | TO, flag                                   |
-| 🇹🇷         | flag: Turkey                                 | :tr:                                       | TR, flag                                   |
-| 🇹🇹         | flag: Trinidad & Tobago                      | :trinidad_tobago:                          | TT, flag                                   |
-| 🇹🇻         | flag: Tuvalu                                 | :tuvalu:                                   | TV, flag                                   |
-| 🇹🇼         | flag: Taiwan                                 | :taiwan:                                   | TW, flag                                   |
-| 🇹🇿         | flag: Tanzania                               | :tanzania:                                 | TZ, flag                                   |
-| 🇺🇦         | flag: Ukraine                                | :ukraine:                                  | UA, flag                                   |
-| 🇺🇬         | flag: Uganda                                 | :uganda:                                   | UG, flag                                   |
-| 🇺🇲         | flag: U.S. Outlying Islands                  | :us\_outlying\_islands:                    | UM, flag                                   |
-| 🇺🇳         | flag: United Nations                         | :united_nations:                           | UN, flag                                   |
-| 🇺🇸         | flag: United States                          | :us:                                       | US, flag                                   |
-| 🇺🇾         | flag: Uruguay                                | :uruguay:                                  | UY, flag                                   |
-| 🇺🇿         | flag: Uzbekistan                             | :uzbekistan:                               | UZ, flag                                   |
-| 🇻🇦         | flag: Vatican City                           | :vatican_city:                             | VA, flag                                   |
-| 🇻🇨         | flag: St. Vincent & Grenadines               | :st\_vincent\_grenadines:                  | VC, flag                                   |
-| 🇻🇪         | flag: Venezuela                              | :venezuela:                                | VE, flag                                   |
-| 🇻🇬         | flag: British Virgin Islands                 | :british\_virgin\_islands:                 | VG, flag                                   |
-| 🇻🇮          | flag: U.S. Virgin Islands                    | :us\_virgin\_islands:                      | VI, flag                                   |
-| 🇻🇳         | flag: Vietnam                                | :vietnam:                                  | VN, flag                                   |
-| 🇻🇺         | flag: Vanuatu                                | :vanuatu:                                  | VU, flag                                   |
-| 🇼🇫         | flag: Wallis & Futuna                        | :wallis_futuna:                            | WF, flag                                   |
-| 🇼🇸         | flag: Samoa                                  | :samoa:                                    | WS, flag                                   |
-| 🇽🇰         | flag: Kosovo                                 | :kosovo:                                   | XK, flag                                   |
-| 🇾🇪         | flag: Yemen                                  | :yemen:                                    | YE, flag                                   |
-| 🇾🇹         | flag: Mayotte                                | :mayotte:                                  | YT, flag                                   |
-| 🇿🇦         | flag: South Africa                           | :south_africa:                             | ZA, flag                                   |
-| 🇿🇲         | flag: Zambia                                 | :zambia:                                   | ZM, flag                                   |
-| 🇿🇼         | flag: Zimbabwe                               | :zimbabwe:                                 | ZW, flag                                   |
-| 🏴󠁧󠁢󠁥󠁮󠁧󠁿         | flag: England                                | :england:                                  | flag, gbeng                                |
-| 🏴󠁧󠁢󠁳󠁣󠁴󠁿         | flag: Scotland                               | :scotland:                                 | flag, gbsct                                |
-| 🏴󠁧󠁢󠁷󠁬󠁳󠁿         | flag: Wales                                  | :wales:                                    | flag, gbwls                                |
+|      |               Annotation                |                 Shortcodes                 |                    Tags                    |
+| ---- | --------------------------------------- | ------------------------------------- | ------------------------------------------ |
+| 🏁   | chequered flag                          | :checkered_flag:                           | checkered, chequered, racing               |
+| 🚩   | triangular flag                         | :triangular\_flag\_on_post:                | post                                       |
+| 🎌   | crossed flags                           | :crossed_flags:                            | celebration, cross, crossed, japanese      |
+| 🏴   | black flag                              | :black_flag:                               | waving                                     |
+| 🏳️   | white flag                              | :white_flag:                               | waving                                     |
+| 🏳️‍🌈   | rainbow flag                            | :rainbow_flag:                             | pride, rainbow                             |
+| 🏳️‍⚧️ | transgender flag                        |                                            | flag, light blue, pink, transgender, white |
+| 🏴‍☠️ | pirate flag                             | :pirate_flag:                              | jolly roger, pirate, plunder, treasure     |
+| 🇦🇨   | flag: Ascension Island                  | :ascension_island:                         | AC, flag                                   |
+| 🇦🇩   | flag: Andorra                           | :andorra:                                  | AD, flag                                   |
+| 🇦🇪   | flag: United Arab Emirates              | :united\_arab\_emirates:                   | AE, flag                                   |
+| 🇦🇫   | flag: Afghanistan                       | :afghanistan:                              | AF, flag                                   |
+| 🇦🇬   | flag: Antigua & Barbuda                 | :antigua_barbuda:                          | AG, flag                                   |
+| 🇦🇮    | flag: Anguilla                          | :anguilla:                                 | AI, flag                                   |
+| 🇦🇱    | flag: Albania                           | :albania:                                  | AL, flag                                   |
+| 🇦🇲   | flag: Armenia                           | :armenia:                                  | AM, flag                                   |
+| 🇦🇴   | flag: Angola                            | :angola:                                   | AO, flag                                   |
+| 🇦🇶   | flag: Antarctica                        | :antarctica:                               | AQ, flag                                   |
+| 🇦🇷   | flag: Argentina                         | :argentina:                                | AR, flag                                   |
+| 🇦🇸   | flag: American Samoa                    | :american_samoa:                           | AS, flag                                   |
+| 🇦🇹   | flag: Austria                           | :austria:                                  | AT, flag                                   |
+| 🇦🇺   | flag: Australia                         | :australia:                                | AU, flag                                   |
+| 🇦🇼   | flag: Aruba                             | :aruba:                                    | AW, flag                                   |
+| 🇦🇽   | flag: Åland Islands                     | :aland_islands:                            | AX, flag                                   |
+| 🇦🇿   | flag: Azerbaijan                        | :azerbaijan:                               | AZ, flag                                   |
+| 🇧🇦   | flag: Bosnia & Herzegovina              | :bosnia_herzegovina:                       | BA, flag                                   |
+| 🇧🇧   | flag: Barbados                          | :barbados:                                 | BB, flag                                   |
+| 🇧🇩   | flag: Bangladesh                        | :bangladesh:                               | BD, flag                                   |
+| 🇧🇪   | flag: Belgium                           | :belgium:                                  | BE, flag                                   |
+| 🇧🇫   | flag: Burkina Faso                      | :burkina_faso:                             | BF, flag                                   |
+| 🇧🇬   | flag: Bulgaria                          | :bulgaria:                                 | BG, flag                                   |
+| 🇧🇭   | flag: Bahrain                           | :bahrain:                                  | BH, flag                                   |
+| 🇧🇮    | flag: Burundi                           | :burundi:                                  | BI, flag                                   |
+| 🇧🇯    | flag: Benin                             | :benin:                                    | BJ, flag                                   |
+| 🇧🇱    | flag: St. Barthélemy                        | :st_barthelemy:                         | BL, flag                                     |
+| 🇧🇲   | flag: Bermuda                            | :bermuda:                             | BM, flag                                    |
+| 🇧🇳   | flag: Brunei                              | :brunei:                               | BN, flag                                    |
+| 🇧🇴   | flag: Bolivia                              | :bolivia:                               | BO, flag                                    |
+| 🇧🇶   | flag: Caribbean Netherlands                | :caribbean_netherlands:                  | BQ, flag                                    |
+| 🇧🇷   | flag: Brazil                               | :brazil:                                | BR, flag                                     |
+| 🇧🇸   | flag: Bahamas                            | :bahamas:                             | BS, flag                                     |
+| 🇧🇹   | flag: Bhutan                              | :bhutan:                               | BT, flag                                     |
+| 🇧🇻   | flag: Bouvet Island                        | :bouvet_island:                         | BV, flag                                    |
+| 🇧🇼   | flag: Botswana                            | :botswana:                             | BW, flag                                    |
+| 🇧🇾   | flag: Belarus                              | :belarus:                               | BY, flag                                     |
+| 🇧🇿   | flag: Belize                               | :belize:                                | BZ, flag                                     |
+| 🇨🇦   | flag: Canada                             | :canada:                               | CA, flag                                    |
+| 🇨🇨    | flag: Cocos (Keeling) Islands                 | :cocos_islands:                          | CC, flag                                    |
+| 🇨🇩   | flag: Congo - Kinshasa                     | :congo_kinshasa:                       | CD, flag                                    |
+| 🇨🇫    | flag: Central African Republic               | :central\_african\_republic:               | CF, flag                                     |
+| 🇨🇬   | flag: Congo - Brazzaville                    | :congo_brazzaville:                      | CG, flag                                    |
+| 🇨🇭   | flag: Switzerland                          | :switzerland:                           | CH, flag                                    |
+| 🇨🇮    | flag: Côte d’Ivoire                        | :cote_divoire:                           | CI, flag                                     |
+| 🇨🇰   | flag: Cook Islands                         | :cook_islands:                          | CK, flag                                    |
+| 🇨🇱    | flag: Chile                                | :chile:                                 | CL, flag                                     |
+| 🇨🇲   | flag: Cameroon                           | :cameroon:                            | CM, flag                                    |
+| 🇨🇳   | flag: China                               | :cn:                                   | CN, flag                                    |
+| 🇨🇴   | flag: Colombia                            | :colombia:                             | CO, flag                                    |
+| 🇨🇵    | flag: Clipperton Island                     | :clipperton_island:                       | CP, flag                                    |
+| 🇨🇷    | flag: Costa Rica                           | :costa_rica:                             | CR, flag                                    |
+| 🇨🇺   | flag: Cuba                               | :cuba:                                 | CU, flag                                    |
+| 🇨🇻   | flag: Cape Verde                          | :cape_verde:                           | CV, flag                                    |
+| 🇨🇼   | flag: Curaçao                             | :curacao:                              | CW, flag                                    |
+| 🇨🇽    | flag: Christmas Island                      | :christmas_island:                       | CX, flag                                    |
+| 🇨🇾    | flag: Cyprus                              | :cyprus:                               | CY, flag                                    |
+| 🇨🇿    | flag: Czechia                             | :czech_republic:                        | CZ, flag                                    |
+| 🇩🇪   | flag: Germany                            | :de:                                   | DE, flag                                    |
+| 🇩🇬   | flag: Diego Garcia                         | :diego_garcia:                          | DG, flag                                    |
+| 🇩🇯    | flag: Djibouti                             | :djibouti:                              | DJ, flag                                     |
+| 🇩🇰   | flag: Denmark                            | :denmark:                             | DK, flag                                    |
+| 🇩🇲   | flag: Dominica                            | :dominica:                             | DM, flag                                    |
+| 🇩🇴   | flag: Dominican Republic                   | :dominican_republic:                    | DO, flag                                    |
+| 🇩🇿   | flag: Algeria                              | :algeria:                               | DZ, flag                                    |
+| 🇪🇦   | flag: Ceuta & Melilla                       | :ceuta_melilla:                          | EA, flag                                     |
+| 🇪🇨    | flag: Ecuador                             | :ecuador:                              | EC, flag                                     |
+| 🇪🇪    | flag: Estonia                              | :estonia:                               | EE, flag                                     |
+| 🇪🇬   | flag: Egypt                               | :egypt:                                | EG, flag                                    |
+| 🇪🇭   | flag: Western Sahara                       | :western_sahara:                        | EH, flag                                    |
+| 🇪🇷    | flag: Eritrea                              | :eritrea:                               | ER, flag                                     |
+| 🇪🇸    | flag: Spain                               | :es:                                   | ES, flag                                     |
+| 🇪🇹    | flag: Ethiopia                             | :ethiopia:                              | ET, flag                                     |
+| 🇪🇺   | flag: European Union                      | :eu::european_union:                    | EU, flag                                    |
+| 🇫🇮    | flag: Finland                              | :finland:                               | FI, flag                                     |
+| 🇫🇯    | flag: Fiji                                  | :fiji:                                   | FJ, flag                                     |
+| 🇫🇰   | flag: Falkland Islands                      | :falkland_islands:                        | FK, flag                                     |
+| 🇫🇲   | flag: Micronesia                           | :micronesia:                            | FM, flag                                    |
+| 🇫🇴   | flag: Faroe Islands                         | :faroe_islands:                          | FO, flag                                    |
+| 🇫🇷    | flag: France                              | :fr:                                   | FR, flag                                     |
+| 🇬🇦   | flag: Gabon                              | :gabon:                               | GA, flag                                    |
+| 🇬🇧   | flag: United Kingdom                      | :gb::uk:                                | GB, flag                                    |
+| 🇬🇩   | flag: Grenada                             | :grenada:                              | GD, flag                                    |
+| 🇬🇪   | flag: Georgia                             | :georgia:                              | GE, flag                                    |
+| 🇬🇫   | flag: French Guiana                        | :french_guiana:                         | GF, flag                                    |
+| 🇬🇬   | flag: Guernsey                            | :guernsey:                             | GG, flag                                    |
+| 🇬🇭   | flag: Ghana                              | :ghana:                               | GH, flag                                    |
+| 🇬🇮    | flag: Gibraltar                             | :gibraltar:                              | GI, flag                                     |
+| 🇬🇱    | flag: Greenland                           | :greenland:                            | GL, flag                                     |
+| 🇬🇲   | flag: Gambia                             | :gambia:                              | GM, flag                                    |
+| 🇬🇳   | flag: Guinea                              | :guinea:                               | GN, flag                                    |
+| 🇬🇵   | flag: Guadeloupe                          | :guadeloupe:                           | GP, flag                                    |
+| 🇬🇶   | flag: Equatorial Guinea                     | :equatorial_guinea:                      | GQ, flag                                    |
+| 🇬🇷   | flag: Greece                              | :greece:                               | GR, flag                                    |
+| 🇬🇸   | flag: South Georgia & South Sandwich Islands | :south\_georgia\_south\_sandwich\_islands: | GS, flag                                    |
+| 🇬🇹   | flag: Guatemala                           | :guatemala:                            | GT, flag                                    |
+| 🇬🇺   | flag: Guam                               | :guam:                                | GU, flag                                    |
+| 🇬🇼   | flag: Guinea-Bissau                        | :guinea_bissau:                         | GW, flag                                    |
+| 🇬🇾   | flag: Guyana                             | :guyana:                               | GY, flag                                    |
+| 🇭🇰   | flag: Hong Kong SAR China                 | :hong_kong:                           | HK, flag                                    |
+| 🇭🇲   | flag: Heard & McDonald Islands             | :heard\_mcdonald\_islands:               | HM, flag                                    |
+| 🇭🇳   | flag: Honduras                            | :honduras:                             | HN, flag                                    |
+| 🇭🇷   | flag: Croatia                              | :croatia:                               | HR, flag                                    |
+| 🇭🇹   | flag: Haiti                                | :haiti:                                 | HT, flag                                    |
+| 🇭🇺   | flag: Hungary                             | :hungary:                              | HU, flag                                    |
+| 🇮🇨    | flag: Canary Islands                        | :canary_islands:                         | IC, flag                                     |
+| 🇮🇩    | flag: Indonesia                            | :indonesia:                             | ID, flag                                     |
+| 🇮🇪    | flag: Ireland                              | :ireland:                               | IE, flag                                     |
+| 🇮🇱    | flag: Israel                               | :israel:                                | IL, flag                                     |
+| 🇮🇲   | flag: Isle of Man                          | :isle\_of\_man:                         | IM, flag                                    |
+| 🇮🇳    | flag: India                                | :india:                                 | IN, flag                                     |
+| 🇮🇴    | flag: British Indian Ocean Territory           | :british\_indian\_ocean_territory:           | IO, flag                                     |
+| 🇮🇶    | flag: Iraq                                 | :iraq:                                  | IQ, flag                                     |
+| 🇮🇷    | flag: Iran                                 | :iran:                                  | IR, flag                                     |
+| 🇮🇸    | flag: Iceland                              | :iceland:                               | IS, flag                                     |
+| 🇮🇹    | flag: Italy                                | :it:                                    | IT, flag                                     |
+| 🇯🇪    | flag: Jersey                               | :jersey:                                | JE, flag                                     |
+| 🇯🇲   | flag: Jamaica                             | :jamaica:                              | JM, flag                                    |
+| 🇯🇴    | flag: Jordan                              | :jordan:                               | JO, flag                                     |
+| 🇯🇵    | flag: Japan                               | :jp:                                   | JP, flag                                     |
+| 🇰🇪   | flag: Kenya                               | :kenya:                                | KE, flag                                     |
+| 🇰🇬   | flag: Kyrgyzstan                           | :kyrgyzstan:                            | KG, flag                                    |
+| 🇰🇭   | flag: Cambodia                           | :cambodia:                            | KH, flag                                    |
+| 🇰🇮    | flag: Kiribati                              | :kiribati:                               | KI, flag                                     |
+| 🇰🇲   | flag: Comoros                            | :comoros:                             | KM, flag                                    |
+| 🇰🇳   | flag: St. Kitts & Nevis                      | :st\_kitts\_nevis:                        | KN, flag                                    |
+| 🇰🇵   | flag: North Korea                         | :north_korea:                           | KP, flag                                     |
+| 🇰🇷   | flag: South Korea                         | :kr:                                   | KR, flag                                     |
+| 🇰🇼   | flag: Kuwait                              | :kuwait:                               | KW, flag                                    |
+| 🇰🇾   | flag: Cayman Islands                       | :cayman_islands:                        | KY, flag                                     |
+| 🇰🇿   | flag: Kazakhstan                          | :kazakhstan:                           | KZ, flag                                     |
+| 🇱🇦    | flag: Laos                                | :laos:                                 | LA, flag                                     |
+| 🇱🇧    | flag: Lebanon                             | :lebanon:                              | LB, flag                                     |
+| 🇱🇨    | flag: St. Lucia                             | :st_lucia:                               | LC, flag                                     |
+| 🇱🇮    | flag: Liechtenstein                         | :liechtenstein:                          | LI, flag                                     |
+| 🇱🇰    | flag: Sri Lanka                            | :sri_lanka:                              | LK, flag                                     |
+| 🇱🇷    | flag: Liberia                              | :liberia:                                | LR, flag                                     |
+| 🇱🇸    | flag: Lesotho                             | :lesotho:                               | LS, flag                                     |
+| 🇱🇹    | flag: Lithuania                            | :lithuania:                             | LT, flag                                     |
+| 🇱🇺   | flag: Luxembourg                         | :luxembourg:                           | LU, flag                                     |
+| 🇱🇻    | flag: Latvia                               | :latvia:                                | LV, flag                                     |
+| 🇱🇾    | flag: Libya                                | :libya:                                 | LY, flag                                     |
+| 🇲🇦   | flag: Morocco                            | :morocco:                             | MA, flag                                    |
+| 🇲🇨   | flag: Monaco                             | :monaco:                              | MC, flag                                    |
+| 🇲🇩   | flag: Moldova                            | :moldova:                             | MD, flag                                    |
+| 🇲🇪   | flag: Montenegro                         | :montenegro:                          | ME, flag                                    |
+| 🇲🇫   | flag: St. Martin                            | :st_martin:                             | MF, flag                                    |
+| 🇲🇬   | flag: Madagascar                          | :madagascar:                           | MG, flag                                    |
+| 🇲🇭   | flag: Marshall Islands                      | :marshall_islands:                       | MH, flag                                    |
+| 🇲🇰   | flag: North Macedonia                     | :macedonia:                           | MK, flag                                    |
+| 🇲🇱   | flag: Mali                                | :mali:                                 | ML, flag                                    |
+| 🇲🇲   | flag: Myanmar (Burma)                     | :myanmar:                             | MM, flag                                   |
+| 🇲🇳   | flag: Mongolia                            | :mongolia:                             | MN, flag                                    |
+| 🇲🇴   | flag: Macao SAR China                     | :macau:                               | MO, flag                                    |
+| 🇲🇵   | flag: Northern Mariana Islands              | :northern\_mariana\_islands:              | MP, flag                                    |
+| 🇲🇶   | flag: Martinique                           | :martinique:                            | MQ, flag                                    |
+| 🇲🇷   | flag: Mauritania                           | :mauritania:                            | MR, flag                                    |
+| 🇲🇸   | flag: Montserrat                          | :montserrat:                           | MS, flag                                    |
+| 🇲🇹   | flag: Malta                               | :malta:                                | MT, flag                                    |
+| 🇲🇺   | flag: Mauritius                            | :mauritius:                             | MU, flag                                    |
+| 🇲🇻   | flag: Maldives                            | :maldives:                             | MV, flag                                    |
+| 🇲🇼   | flag: Malawi                              | :malawi:                               | MW, flag                                   |
+| 🇲🇽   | flag: Mexico                              | :mexico:                               | MX, flag                                    |
+| 🇲🇾   | flag: Malaysia                             | :malaysia:                              | MY, flag                                    |
+| 🇲🇿   | flag: Mozambique                         | :mozambique:                          | MZ, flag                                    |
+| 🇳🇦   | flag: Namibia                             | :namibia:                              | NA, flag                                    |
+| 🇳🇨   | flag: New Caledonia                       | :new_caledonia:                        | NC, flag                                    |
+| 🇳🇪   | flag: Niger                               | :niger:                                | NE, flag                                    |
+| 🇳🇫   | flag: Norfolk Island                        | :norfolk_island:                         | NF, flag                                    |
+| 🇳🇬   | flag: Nigeria                              | :nigeria:                               | NG, flag                                    |
+| 🇳🇮    | flag: Nicaragua                           | :nicaragua:                            | NI, flag                                     |
+| 🇳🇱   | flag: Netherlands                          | :netherlands:                           | NL, flag                                    |
+| 🇳🇴   | flag: Norway                             | :norway:                               | NO, flag                                    |
+| 🇳🇵   | flag: Nepal                               | :nepal:                                | NP, flag                                    |
+| 🇳🇷   | flag: Nauru                               | :nauru:                                | NR, flag                                    |
+| 🇳🇺   | flag: Niue                                | :niue:                                 | NU, flag                                    |
+| 🇳🇿   | flag: New Zealand                         | :new_zealand:                          | NZ, flag                                    |
+| 🇴🇲   | flag: Oman                               | :oman:                                | OM, flag                                    |
+| 🇵🇦   | flag: Panama                             | :panama:                              | PA, flag                                    |
+| 🇵🇪    | flag: Peru                                | :peru:                                 | PE, flag                                     |
+| 🇵🇫    | flag: French Polynesia                      | :french_polynesia:                       | PF, flag                                     |
+| 🇵🇬   | flag: Papua New Guinea                    | :papua\_new\_guinea:                   | PG, flag                                    |
+| 🇵🇭   | flag: Philippines                           | :philippines:                            | PH, flag                                    |
+| 🇵🇰   | flag: Pakistan                             | :pakistan:                              | PK, flag                                     |
+| 🇵🇱    | flag: Poland                              | :poland:                               | PL, flag                                     |
+| 🇵🇲   | flag: St. Pierre & Miquelon                  | :st\_pierre\_miquelon:                   | PM, flag                                    |
+| 🇵🇳   | flag: Pitcairn Islands                       | :pitcairn_islands:                        | PN, flag                                    |
+| 🇵🇷    | flag: Puerto Rico                          | :puerto_rico:                           | PR, flag                                     |
+| 🇵🇸    | flag: Palestinian Territories                  | :palestinian_territories:                   | PS, flag                                     |
+| 🇵🇹    | flag: Portugal                             | :portugal:                              | PT, flag                                     |
+| 🇵🇼   | flag: Palau                               | :palau:                                | PW, flag                                    |
+| 🇵🇾    | flag: Paraguay                            | :paraguay:                             | PY, flag                                     |
+| 🇶🇦   | flag: Qatar                               | :qatar:                                | QA, flag                                    |
+| 🇷🇪    | flag: Réunion                             | :reunion:                              | RE, flag                                     |
+| 🇷🇴   | flag: Romania                            | :romania:                              | RO, flag                                    |
+| 🇷🇸    | flag: Serbia                               | :serbia:                                | RS, flag                                     |
+| 🇷🇺   | flag: Russia                               | :ru:                                   | RU, flag                                    |
+| 🇷🇼   | flag: Rwanda                             | :rwanda:                              | RW, flag                                    |
+| 🇸🇦   | flag: Saudi Arabia                         | :saudi_arabia:                          | SA, flag                                     |
+| 🇸🇧   | flag: Solomon Islands                      | :solomon_islands:                       | SB, flag                                     |
+| 🇸🇨    | flag: Seychelles                           | :seychelles:                            | SC, flag                                     |
+| 🇸🇩   | flag: Sudan                               | :sudan:                                | SD, flag                                    |
+| 🇸🇪    | flag: Sweden                             | :sweden:                              | SE, flag                                     |
+| 🇸🇬   | flag: Singapore                           | :singapore:                            | SG, flag                                    |
+| 🇸🇭   | flag: St. Helena                           | :st_helena:                             | SH, flag                                    |
+| 🇸🇮    | flag: Slovenia                             | :slovenia:                              | SI, flag                                     |
+| 🇸🇯    | flag: Svalbard & Jan Mayen                 | :svalbard\_jan\_mayen:                  | SJ, flag                                     |
+| 🇸🇰   | flag: Slovakia                             | :slovakia:                              | SK, flag                                     |
+| 🇸🇱    | flag: Sierra Leone                         | :sierra_leone:                           | SL, flag                                     |
+| 🇸🇲   | flag: San Marino                          | :san_marino:                           | SM, flag                                    |
+| 🇸🇳   | flag: Senegal                             | :senegal:                              | SN, flag                                    |
+| 🇸🇴   | flag: Somalia                             | :somalia:                              | SO, flag                                    |
+| 🇸🇷    | flag: Suriname                            | :suriname:                             | SR, flag                                     |
+| 🇸🇸    | flag: South Sudan                         | :south_sudan:                          | SS, flag                                     |
+| 🇸🇹    | flag: São Tomé & Príncipe                  | :sao\_tome\_principe:                    | ST, flag                                     |
+| 🇸🇻   | flag: El Salvador                           | :el_salvador:                            | SV, flag                                     |
+| 🇸🇽    | flag: Sint Maarten                         | :sint_maarten:                          | SX, flag                                     |
+| 🇸🇾    | flag: Syria                                | :syria:                                 | SY, flag                                     |
+| 🇸🇿    | flag: Eswatini                             | :swaziland:                             | SZ, flag                                     |
+| 🇹🇦   | flag: Tristan da Cunha                     | :tristan\_da\_cunha:                     | TA, flag                                     |
+| 🇹🇨    | flag: Turks & Caicos Islands                 | :turks\_caicos\_islands:                   | TC, flag                                     |
+| 🇹🇩   | flag: Chad                               | :chad:                                 | TD, flag                                    |
+| 🇹🇫    | flag: French Southern Territories             | :french\_southern\_territories:             | TF, flag                                     |
+| 🇹🇬   | flag: Togo                                | :togo:                                 | TG, flag                                    |
+| 🇹🇭   | flag: Thailand                             | :thailand:                              | TH, flag                                    |
+| 🇹🇯    | flag: Tajikistan                            | :tajikistan:                             | TJ, flag                                     |
+| 🇹🇰   | flag: Tokelau                             | :tokelau:                              | TK, flag                                     |
+| 🇹🇱    | flag: Timor-Leste                          | :timor_leste:                            | TL, flag                                     |
+| 🇹🇲   | flag: Turkmenistan                        | :turkmenistan:                          | TM, flag                                    |
+| 🇹🇳   | flag: Tunisia                              | :tunisia:                               | TN, flag                                    |
+| 🇹🇴   | flag: Tonga                               | :tonga:                                | TO, flag                                    |
+| 🇹🇷    | flag: Turkey                              | :tr:                                   | TR, flag                                     |
+| 🇹🇹    | flag: Trinidad & Tobago                    | :trinidad_tobago:                       | TT, flag                                     |
+| 🇹🇻   | flag: Tuvalu                              | :tuvalu:                                | TV, flag                                     |
+| 🇹🇼   | flag: Taiwan                              | :taiwan:                               | TW, flag                                    |
+| 🇹🇿    | flag: Tanzania                            | :tanzania:                              | TZ, flag                                     |
+| 🇺🇦   | flag: Ukraine                             | :ukraine:                              | UA, flag                                    |
+| 🇺🇬   | flag: Uganda                             | :uganda:                              | UG, flag                                    |
+| 🇺🇲   | flag: U.S. Outlying Islands                   | :us\_outlying\_islands:                   | UM, flag                                    |
+| 🇺🇳   | flag: United Nations                       | :united_nations:                        | UN, flag                                    |
+| 🇺🇸   | flag: United States                         | :us:                                   | US, flag                                    |
+| 🇺🇾   | flag: Uruguay                             | :uruguay:                              | UY, flag                                    |
+| 🇺🇿   | flag: Uzbekistan                           | :uzbekistan:                            | UZ, flag                                    |
+| 🇻🇦   | flag: Vatican City                          | :vatican_city:                           | VA, flag                                    |
+| 🇻🇨   | flag: St. Vincent & Grenadines               | :st\_vincent\_grenadines:                 | VC, flag                                    |
+| 🇻🇪   | flag: Venezuela                           | :venezuela:                            | VE, flag                                     |
+| 🇻🇬   | flag: British Virgin Islands                   | :british\_virgin\_islands:                  | VG, flag                                    |
+| 🇻🇮    | flag: U.S. Virgin Islands                     | :us\_virgin\_islands:                     | VI, flag                                     |
+| 🇻🇳   | flag: Vietnam                             | :vietnam:                              | VN, flag                                    |
+| 🇻🇺   | flag: Vanuatu                             | :vanuatu:                              | VU, flag                                    |
+| 🇼🇫   | flag: Wallis & Futuna                      | :wallis_futuna:                          | WF, flag                                    |
+| 🇼🇸   | flag: Samoa                              | :samoa:                               | WS, flag                                    |
+| 🇽🇰   | flag: Kosovo                              | :kosovo:                               | XK, flag                                     |
+| 🇾🇪    | flag: Yemen                              | :yemen:                               | YE, flag                                     |
+| 🇾🇹    | flag: Mayotte                             | :mayotte:                              | YT, flag                                     |
+| 🇿🇦   | flag: South Africa                         | :south_africa:                           | ZA, flag                                    |
+| 🇿🇲   | flag: Zambia                              | :zambia:                               | ZM, flag                                    |
+| 🇿🇼   | flag: Zimbabwe                           | :zimbabwe:                            | ZW, flag                                    |
+| 🏴󠁧󠁢󠁥󠁮󠁧󠁿   | flag: England                             | :england:                              | flag, gbeng                                 |
+| 🏴󠁧󠁢󠁳󠁣󠁴󠁿   | flag: Scotland                             | :scotland:                              | flag, gbsct                                  |
+| 🏴󠁧󠁢󠁷󠁬󠁳󠁿   | flag: Wales                               | :wales:                                | flag, gbwls                                  |
