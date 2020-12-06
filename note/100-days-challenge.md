@@ -25,6 +25,3 @@ draft: false
 9. [Reddit Daily Programmer](https://old.reddit.com/r/dailyprogrammer/)
 10. [PyBites 100 Days of Code](https://github.com/pybites/100DaysOfCode)
 11. [Enlight](https://enlight.nyc/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTQyMzExMl19
--->
