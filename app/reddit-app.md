@@ -50,3 +50,4 @@ draft: false
 - [Tildes](https://tildes.net/) [open source](https://blog.tildes.net/open-source) in [Gitlab](https://gitlab.com/tildes/tildes) [selfhosted](https://docs.tildes.net/instructions/development-setup)
 - [Lemmy](https://dev.lemmy.ml/)
 - [Raddle](https://raddle.me/)
+- [Gurlic](https://gurlic.com/)

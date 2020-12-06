@@ -53,3 +53,4 @@ draft: false
 - [Nomad List](https://nomadlist.com/forum/) for traveling
 - [MLN](https://mln.dev/top/1) for machine learning
 - [Sqwok](https://sqwok.im/)
+- [Datatau](https://datatau.net/) for data science
