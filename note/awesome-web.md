@@ -74,9 +74,9 @@ draft: false
 - Learn with Google - Courses and certifications from Google.
 - Learn with Microsoft on Edx (Free) - Courses from Microsoft.
 - MIT courses -MIT's OpenCourseware.
-- Octave -software featuring a high-level programming language, primarily intended for numerical computations. Basically free MatLab Alternative
+- Octave -software featuring a high-level programming language, primarily intended for numerical computations. Basically free MATLAB Alternative
 - R- programming language -free software environment for statistical computing and graphics
 - W3Schools - The world's largest Web Development learning site.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjUxNDUyMF19
+eyJoaXN0b3J5IjpbMTA2MjI0NTQ2NF19
 -->
