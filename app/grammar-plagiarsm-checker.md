@@ -29,7 +29,7 @@ draft: false
 - [Grammarly for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)
 - [Linguix](https://addons.mozilla.org/en-US/firefox/addon/linguix/)
 
-## MS Word Add-Ons
+## MS Word Add-ons
 - [Writefull ](https://writefull.com/)
 - [Grammarly](https://app.grammarly.com/)
 
@@ -40,5 +40,5 @@ draft: false
 - [Grammarly Plagiarism Checker](https://www.grammarly.com/plagiarism-checker)
 - [Quetext](https://www.quetext.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI3MDI0NTRdfQ==
+eyJoaXN0b3J5IjpbLTE2OTc1OTI1NF19
 -->
