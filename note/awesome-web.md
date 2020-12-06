@@ -65,7 +65,7 @@ draft: false
 - Unreal Engine -the most open and advanced real-time 3D creation tool.
 - VS Code -free source-code editor.
 - Wavepad -Audio and music editor for Windows and Mac.
-- Wcostream - anime and animated Tv-show/movie site with dubs and subs.
+- Wcostream - anime and animated TV-show/movie site with dubs and subs.
 ​
 ## Free Learning Materials
 - Codecademy - free sessions and exercises for any coding language.
@@ -77,3 +77,6 @@ draft: false
 - Octave -software featuring a high-level programming language, primarily intended for numerical computations. Basically free MatLab Alternative
 - R- programming language -free software environment for statistical computing and graphics
 - W3Schools - The world's largest Web Development learning site.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU2MjUxNDUyMF19
+-->
