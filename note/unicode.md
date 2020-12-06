@@ -58,7 +58,7 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 - [Big list of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt)
 
 ## Punycode
-- [Punycoder](https://www.punycoder.com/) : make a punycode and beware of [phising with it](https://www.xudongz.com/blog/2017/idn-phishing/)
+- [Punycoder](https://www.punycoder.com/) : make a puny code and beware of [phising with it](https://www.xudongz.com/blog/2017/idn-phishing/)
   - www.xn--c1yn36f.org
   - xn--s28h.com
   - www.xn--pple-43d.com is not www.apple.com
@@ -82,5 +82,5 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 - [Delicious Brains](https://deliciousbrains.com/how-unicode-works/)
 - [Unicode Explained Book](https://flylib.com/books/en/1.536.1/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1MTc5XX0=
+eyJoaXN0b3J5IjpbLTE5ODQwOTM4MTVdfQ==
 -->
