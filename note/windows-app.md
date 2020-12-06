@@ -112,8 +112,8 @@ This is a list of awesome apps for Windows 10.
 - Ditto : clipboard manager, copy-paste
 
 ## Islamic
-- OneQuran : complete quran, hadits
-- Quran : simple quran
+- OneQuran : complete Quran, hadith
+- Quran : simple Quran
 
 ## Windows Tools
 - AutoHotkey : automation for Windows
@@ -270,5 +270,5 @@ This is a list of awesome apps for Windows 10.
 - [Youtube](https://www.youtube.com/watch?v=7F1YZ4e-XKM)
 - [Crucial](https://www.crucial.com/compatible-upgrade-for/lenovo/ideapad-c340#ssd)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjMzMjI4NV19
+eyJoaXN0b3J5IjpbLTQzNzQyMzk2MF19
 -->
