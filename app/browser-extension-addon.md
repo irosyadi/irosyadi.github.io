@@ -20,10 +20,10 @@ draft: false
 ### Tab Management
 - Auto Tab Discard : Increase browser speed and reduce memory load and when you have numerous open tabs.
 - Containerise : Firefox extension to automatically open websites in a container
-- Containers theme : Change theme colour based on your container color
-- Facebook Container : Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
+- Containers theme : Change theme color based on your container color
+- Facebook Container : Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside the Facebook website via third party cookies.
 - Firefox Multi-Account Containers : Multi-Account Containers helps you keep all the parts of your online life contained in different tabs.
-- Sidebery : Addon for managing tabs, containers (contextual identities) and bookmarks in sidebar.
+- Sidebery : Add-on for managing tabs, containers (contextual identities) and bookmarks in sidebar.
 
 ### RSS
 - Awesome RSS : Puts an RSS/Atom subscribe button back in URL bar
@@ -39,7 +39,7 @@ draft: false
 - uBlock Origin : Finally, an efficient blocker. Easy on CPU and memory.
 
 ### Site Enhancement
-- Refined Hacker News : Add useful features and tweak a few stuff to make the HN experience better without changing the look and feel
+- Refined Hacker News : Add useful features and tweak a little stuff to make the HN experience better without changing the look and feel
 - Reddit Enhancement Suite : A suite of modules that enhance your Reddit browsing experience
 - Enhanced GitHub : Display repo size, size of each file, download link and option to copy file contents
 - Dark Reader : Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.
@@ -64,3 +64,6 @@ draft: false
 ### Time Management
 - Mind the Time : Keep track of how much time you spend on the web, and where you spend it. 
 - Pomodoro clock : A simple pomodoro clock in your browser to hack your productivity.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5NTc2MDA2N119
+-->
