@@ -11,14 +11,14 @@ draft: false
 
 # All about Unicode
 
-Unicode is an information technology (IT) standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. Within unicode encoding, there are subsets called emoji to represent pictorial expression in characters. While unicode is important work, it has some kind messy structure. That's why we have punycode.
+Unicode is an information technology (IT) standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. Within Unicode encoding, there are subsets called emoji to represent pictorial expression in characters. While Unicode is an important piece of work, it has some kind of messy structure. That's why we have puny code.
 
 ## Unicode List
-- [Unicode Charts](https://www.unicode.org/charts/) formal unicode chart (in PDF)
+- [Unicode Charts](https://www.unicode.org/charts/) formal Unicode chart (in PDF)
 - [Unicode Blocks](https://www.fileformat.info/info/unicode/block/index.htm)
 
 ## Unicode Font
-- [Unifont ](https://unifoundry.com/unifont/index.html), font for all existing unicode
+- [Unifont ](https://unifoundry.com/unifont/index.html), font for all existing Unicode
 
 ## Unicode Search
 - [Unicode Search](https://unicodelookup.com/)
@@ -32,14 +32,14 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Emojipedia](https://emojipedia.org/) : Emoji search and explanation
 - [Kaomoji Japanese Emoticons](https://japaneseemoticons.me/) : Kaomoji, the Japanese emoticons
 (ノಠ益ಠ)ノ彡┻━┻ : angry table flip
-- [Emoji Base](https://emojibase.dev/) : emoji shortcode list
+- [Emoji Base](https://emojibase.dev/) : emoji short code list
 - [Joypixels Emoji Convertion](https://demos.joypixels.com/latest/index.html)
-- [Github emoji](https://api.github.com/emojis) : emoji shortcode list
+- [Github emoji](https://api.github.com/emojis) : emoji short code list
 -  [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) : emoji almost universal shortcode list
 - [Emoji shortcode](https://gist.github.com/rxaviers/7360908)
 
 ## Unicode Tools
-- [String Length and Byte Counter](https://mothereff.in/byte-counter) : calculate length of string and byte in an unicode text
+- [String Length and Byte Counter](https://mothereff.in/byte-counter) : calculate length of string and byte in a Unicode text
 
 ## Unicode Art
 - [One line ASCII Art](https://1lineart.kulaone.com/#/)
@@ -81,3 +81,6 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 - [Better Explained](https://betterexplained.com/articles/unicode/)
 - [Delicious Brains](https://deliciousbrains.com/how-unicode-works/)
 - [Unicode Explained Book](https://flylib.com/books/en/1.536.1/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjQ1MTc5XX0=
+-->
