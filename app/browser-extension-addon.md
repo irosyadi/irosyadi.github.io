@@ -44,7 +44,7 @@ draft: false
 - Enhanced GitHub : Display repo size, size of each file, download link and option to copy file contents
 - Dark Reader : Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.
 - Wikiwand: Wikipedia Modernized : Good old Wikipedia gets a great new look
-- Violentmonkey : An open source userscript manager that supports a lot of browsers
+- Violentmonkey : An open source user script manager that supports a lot of browsers
 
 ### Page Information
 - Thredd - Useful Advice from Reddit : Get reviews for the page you're reading or recommendations for similar content - crowdsourced from Reddit!
@@ -52,7 +52,7 @@ draft: false
 
 ### Browsing Tools
 - Copy Selection as Markdown : Copy title, URL, and selection as Markdown
-- markdown-clipper : This extension works like a web clipper, but it downloads articles in a markdown format.
+- markdown-clipper : This extension works like a web clipper, but it downloads articles in a Markdown format.
 - Open in Sumatra PDF and DJVU Reader : Adds a context menu item to send PDF links directly to Sumatra PDF
 - Open in VLC™ media player : Adds a context menu to send audio and video streams directly to the well-known VLC™ media player
 - SingleFile : Save a complete page into a single HTML file
@@ -65,5 +65,5 @@ draft: false
 - Mind the Time : Keep track of how much time you spend on the web, and where you spend it. 
 - Pomodoro clock : A simple pomodoro clock in your browser to hack your productivity.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc2MDA2N119
+eyJoaXN0b3J5IjpbLTYzNzU5ODU4OV19
 -->
