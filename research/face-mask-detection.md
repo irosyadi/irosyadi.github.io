@@ -51,9 +51,12 @@ draft: false
 - Identifying Facemask-Wearing Condition UsingImage Super-Resolution with Classification Networkto Prevent COVID-19, Bosheng Qin : SRCNet
 
 ## Ideas
-- with Face Presentation Attack Detection (in this case: mask with part of face)
-- Lighting and Distance effect analysis on detection
-- working on Handheld Devices
+- Face Mask with Face Presentation Attack Detection (in this case: mask with part of face),  with lighting and distance effect analysis on detection, working on handheld devices, video based
+- upgrade [mk-gurucharan/Face-Mask-Detection](https://github.com/mk-gurucharan/Face-Mask-Detection)
+- upgrade [rfribeiro/mask-detector](https://github.com/rfribeiro/mask-detector) : Haar Cascade (OpenCV) + MobileNetv2
+- upgrade [rohanrao619/Social_Distancing_with_AI](https://github.com/rohanrao619/Social_Distancing_with_AI) : Yolov3 for object detection, Dual Shot Face Detector (DSFD) (better than Haar Cascade) for face detection, ResNet50 for face classification
+- upgrade [datarootsio/face-mask-detection](https://github.com/datarootsio/face-mask-detection) : RetinaFace (RetinaNetMobileNetV1) for face detection, MobileNetV1 for face classification
+- upgrade [Rahul24-06/COVID-19-Authorized-Entry-using-Face-Mask-Detection](https://github.com/Rahul24-06/COVID-19-Authorized-Entry-using-Face-Mask-Detection): ResNet18 on Jetson Nano
 
 ## Object Detection
 - Object Detection is Object Localization and Object Classification
