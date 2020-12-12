@@ -807,7 +807,7 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 - didn't work in Gitbook
 
 ### 26.1. Admonition with CSS
-- CSS delivered from: <https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/info3.css>
+- CSS delivered from: <https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.css>
 
 ***markdown***
 
