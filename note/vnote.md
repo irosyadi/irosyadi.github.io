@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  VNote User GUide
 date: 2020-06-29 19:34:47
-path: /note
 category: note
 tags: vnote
 draft: false

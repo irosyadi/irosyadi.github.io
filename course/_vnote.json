@@ -6,7 +6,7 @@
             "attachments": [
             ],
             "created_time": "2020-08-31T06:55:44Z",
-            "modified_time": "2020-12-06T18:50:34Z",
+            "modified_time": "2020-12-17T04:22:36Z",
             "name": "fundamentals-of-electrical-engineering.md",
             "tags": [
             ]
@@ -16,7 +16,7 @@
             "attachments": [
             ],
             "created_time": "2020-08-31T06:56:28Z",
-            "modified_time": "2020-11-25T12:46:28Z",
+            "modified_time": "2020-12-17T04:22:40Z",
             "name": "control-systems.md",
             "tags": [
             ]
@@ -26,7 +26,7 @@
             "attachments": [
             ],
             "created_time": "2020-08-31T06:56:48Z",
-            "modified_time": "2020-11-25T12:46:52Z",
+            "modified_time": "2020-12-17T04:22:43Z",
             "name": "linear-algebra.md",
             "tags": [
             ]
@@ -36,7 +36,7 @@
             "attachments": [
             ],
             "created_time": "2020-08-31T06:57:09Z",
-            "modified_time": "2020-11-29T22:48:22Z",
+            "modified_time": "2020-12-17T04:22:46Z",
             "name": "machine-learning.md",
             "tags": [
             ]
@@ -46,7 +46,7 @@
             "attachments": [
             ],
             "created_time": "2020-09-12T05:08:07Z",
-            "modified_time": "2020-11-25T12:47:05Z",
+            "modified_time": "2020-12-17T04:22:51Z",
             "name": "mk-matematika-teknik.md",
             "tags": [
             ]
@@ -56,7 +56,7 @@
             "attachments": [
             ],
             "created_time": "2020-09-12T05:19:26Z",
-            "modified_time": "2020-11-25T12:47:11Z",
+            "modified_time": "2020-12-17T04:22:55Z",
             "name": "kuliah.md",
             "tags": [
             ]
@@ -66,7 +66,7 @@
             "attachments": [
             ],
             "created_time": "2020-09-12T05:27:13Z",
-            "modified_time": "2020-11-25T12:47:18Z",
+            "modified_time": "2020-12-17T04:22:59Z",
             "name": "mk-dasar-teknik-elektro.md",
             "tags": [
             ]
@@ -76,7 +76,7 @@
             "attachments": [
             ],
             "created_time": "2020-09-12T05:29:54Z",
-            "modified_time": "2020-11-25T12:47:24Z",
+            "modified_time": "2020-12-17T04:23:02Z",
             "name": "mk-sistem-kendali-lanjut.md",
             "tags": [
             ]
@@ -86,7 +86,7 @@
             "attachments": [
             ],
             "created_time": "2020-09-12T22:51:04Z",
-            "modified_time": "2020-11-22T10:29:35Z",
+            "modified_time": "2020-12-17T04:23:05Z",
             "name": "digital-signal-processing.md",
             "tags": [
             ]
@@ -96,7 +96,7 @@
             "attachments": [
             ],
             "created_time": "2020-09-14T04:35:11Z",
-            "modified_time": "2020-11-25T12:40:08Z",
+            "modified_time": "2020-12-17T04:23:09Z",
             "name": "instrumentation.md",
             "tags": [
             ]
@@ -128,6 +128,16 @@
             "created_time": "2020-12-10T13:07:56Z",
             "modified_time": "2020-12-10T14:44:48Z",
             "name": "control-design-frequency.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T04:28:24Z",
+            "modified_time": "2020-12-17T04:28:39Z",
+            "name": "readme.md",
             "tags": [
             ]
         }

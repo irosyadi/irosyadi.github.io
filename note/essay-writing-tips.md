@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Essay Writing Tips
 date: 2020-11-30 12:54:55
-path: /note
 category: note
 tags: essay writing tip
 draft: false
