@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Journal and Scientific Article
 date: 2020-12-04 21:54:47
-path: /research
 category: research
 tags: journal scientific article
 draft: false

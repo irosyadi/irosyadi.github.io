@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Latex Apps
 date: 2020-12-14 15:19:51
-path: /research
 category: research
 tags: latex app
 draft: false

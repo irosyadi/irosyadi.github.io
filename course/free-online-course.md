@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Free Online Course
 date: 2020-11-30 05:49:43
-path: /course
 category: course
 tags: free online course
 draft: false
