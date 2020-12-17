@@ -1,6 +1,6 @@
-title: Your awesome title
+title: irosyadi
 lang: en
-description: Write an awesome description for your new site here
+description: notes of life
 
 ## local method ##
 # theme: jekyll-rtd-theme
@@ -8,9 +8,6 @@ description: Write an awesome description for your new site here
 #   compress: false
 #   dist: true
 #   shortcodes: true
-
-title: irosyadi
-description: notes of life
 
 ## remote method ##
 remote_theme: rundocs/jekyll-rtd-theme
