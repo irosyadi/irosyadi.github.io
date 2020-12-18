@@ -4,7 +4,7 @@ author: irosyadi
 title:  Free Online Course
 date: 2020-11-30 05:49:43
 category: course
-tags: free online course
+tags: ["free", "course"]
 draft: false
 ---
 

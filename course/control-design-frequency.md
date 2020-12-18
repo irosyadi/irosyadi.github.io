@@ -4,7 +4,7 @@ author: irosyadi
 title:  Control Design with Frequency Method
 date: 2020-08-31 13:57:57
 category: course
-tags: control design frequency method
+tags: ["control system"]
 draft: false
 ---
 

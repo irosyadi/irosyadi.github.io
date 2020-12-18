@@ -4,7 +4,7 @@ author: irosyadi
 title:  Journal and Scientific Article
 date: 2020-12-04 21:54:47
 category: research
-tags: journal scientific article
+tags: ["journal", "paper"]
 draft: false
 ---
 

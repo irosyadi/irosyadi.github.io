@@ -4,7 +4,7 @@ author: irosyadi
 title:  Latex Apps
 date: 2020-12-14 15:19:51
 category: research
-tags: latex app
+tags: ["latex"]
 draft: false
 ---
 
