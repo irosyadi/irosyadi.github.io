@@ -12,6 +12,10 @@ description: notes of life
 ## remote method ##
 remote_theme: rundocs/jekyll-rtd-theme
 
+google:
+  gtag: G-FW8VT9HPXQ
+  adsense: 
+
 readme_index:
   with_frontmatter: true
 
