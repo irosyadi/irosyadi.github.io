@@ -70,8 +70,5 @@ Content of the up folder (`[Hello](../development/blog-markdown/)`)
 - Gatsby understands only link under its folder
 
 ## Image Hosting in Github
-`![QR Code Image-small](_v_images/20201220183102525_18817.png)`
-![QR Code Image-small](_v_images/20201220183102525_18817.png)
-
-`![QR Code Image-small.png](_v_attachments/20201220181942360_3572/QR%20Code%20Image-small.png)`
-![QR Code Image-small.png](_v_attachments/20201220181942360_3572/QR%20Code%20Image-small.png)
+`![QR Code Image-small](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1608464780_20201220183102525_18817.png?token=ABWRHPT4KYM5SORHWDIVXZ273444S)`
+![QR Code Image-small](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1608464780_20201220183102525_18817.png?token=ABWRHPT4KYM5SORHWDIVXZ273444S)
