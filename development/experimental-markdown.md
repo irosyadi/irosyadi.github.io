@@ -68,3 +68,10 @@ Content of the up folder (`[Hello](../development/blog-markdown/)`)
 - [Blog](../blog/readme/) : fail on jekyll-rtd, fail on gitbook, fail on gatsby
 
 - Gatsby understands only link under its folder
+
+## Image Hosting in Github
+`![QR Code Image-small](_v_images/20201220183102525_18817.png)`
+![QR Code Image-small](_v_images/20201220183102525_18817.png)
+
+`![QR Code Image-small.png](_v_attachments/20201220181942360_3572/QR%20Code%20Image-small.png)`
+![QR Code Image-small.png](_v_attachments/20201220181942360_3572/QR%20Code%20Image-small.png)
