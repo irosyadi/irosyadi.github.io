@@ -55,6 +55,8 @@ Here is the comment:
 
 ## Internal Reference
 
+### Internal Reference : Outside Folder
+
 Content of the up folder (`[Blog Markdown](../development/blog-markdown.md)`)
 - [Blog Markdown](../development/blog-markdown.md) : working on jekyll-rtd, gitbook, fail on gatsby
 - [Blog](../blog/readme.md) : working on jekyll-rtd, fail on gitbook, fail on gatsby
@@ -69,6 +71,11 @@ Content of the up folder (`[Hello](../development/blog-markdown/)`)
 
 - Gatsby understands only link under its folder
 
+### Internal Reference : Inside Folder
+- [My Workflow](my-workflow.md) `[My Workflow](my-workflow.md)`
+- [My Workflow](my-workflow) `[My Workflow](my-workflow)`
+- [My Workflow](my-workflow/) `[My Workflow](my-workflow/)`
+
 ## Image Hosting in Github
-`![QR Code Image-small](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1608464780_20201220183102525_18817.png?token=ABWRHPT4KYM5SORHWDIVXZ273444S)`
-![QR Code Image-small](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1608464780_20201220183102525_18817.png?token=ABWRHPT4KYM5SORHWDIVXZ273444S)
+
+![QR Code Image-small](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1608464780_20201220183102525_18817.png)
