@@ -28,10 +28,10 @@ draft: false
 ## Software
 * [The Best Free Software for PC](https://www.techsupportalert.com/pc-tools.html)
 
-## Rosyadi Web Networks
+## Web Networks
 * [irosyadi – note of a life](https://imronrosyadi.wordpress.com/)
-* [Yandex Connect](https://connect.yandex.com/portal/home) ipwt.org mail management
-* [CPanel](https://srv66.niagahoster.com:2083/cpsess2968925572/frontend/paper_lantern/index.html?login=1&post_login=22825537690951)
+* [Yandex Connect](https://connect.yandex.com/portal/home) : mail management
+<!-- [CPanel](https://srv66.niagahoster.com:2083/cpsess2968925572/frontend/paper_lantern/index.html?login=1&post_login=22825537690951) -->
 
 ## Selfhosted
 * [Sandstorm App Market](https://apps.sandstorm.io/)
