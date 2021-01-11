@@ -1,4 +1,4 @@
-# irosyadi
+# Imron Rosyadi
 
 This is my personal wiki a.k.a my second brain notes where I share everything I like.
 
