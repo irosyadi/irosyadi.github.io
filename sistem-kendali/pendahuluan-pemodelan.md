@@ -1,7 +1,7 @@
 ---
 layout: default
 author: irosyadi
-title:  Pendahuluan Pemodelan
+title:  1. Pendahuluan: Pemodelan Pemodelan
 date: 2021-03-28 09:58:58
 category: sistem-kendali
 tags: ["sistem kendali"]

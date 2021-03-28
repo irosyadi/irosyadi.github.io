@@ -1,7 +1,7 @@
 ---
 layout: default
 author: irosyadi
-title:  Kendali Kendaraan
+title:  2. Kendali Kendaraan
 date: 2021-03-28 10:04:55
 category: sistem-kendali
 tags: ["sistem kendali"]
