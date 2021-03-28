@@ -27,3 +27,14 @@ The frequency response of a system can be found from its transfer function in th
 For our purposes, we will use the Bounded Input Bounded Output (BIBO) definition of stability which states that a system is stable if the output remains bounded for all bounded (finite) inputs. Practically, this means that the system will not "blow up" while in operation.
 
 The transfer function representation is especially useful when analyzing system stability. If all poles of the transfer function (values of $s$ for which the denominator equals zero) have negative real parts, then the system is stable. If any pole has a positive real part, then the system is unstable. If we view the poles on the complex s-plane, then all poles must be in the left-half plane (LHP) to ensure stability. If any pair of poles is on the imaginary axis, then the system is marginally stable and the system will tend to oscillate. A system with purely imaginary poles is not considered BIBO stable. For such a system, there will exist finite inputs that lead to an unbounded response. The poles of an LTI system model can easily be found in MATLAB using the pole command, an example of which is shown below:
+
+
+
+Inline tex with $s$
+Inline tex with $$s$$
+
+\( s \)
+
+$$
+s
+$$
