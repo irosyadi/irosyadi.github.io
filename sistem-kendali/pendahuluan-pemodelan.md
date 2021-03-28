@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  1. Pendahuluan: Pemodelan Pemodelan
+title:  1. Pendahuluan: Pemodelan Sistem
 date: 2021-03-28 09:58:58
 category: sistem-kendali
 tags: ["sistem kendali"]
 draft: false
 ---
 
-# 1. Pendahuluan: Pemodelan Pemodelan
+# 1. Pendahuluan: Pemodelan Sistem
 
 ## 1.1. Sistem Dinamik
 
