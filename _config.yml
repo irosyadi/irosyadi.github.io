@@ -27,3 +27,7 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
+  
+  
+kramdown:
+  math_engine: katex
