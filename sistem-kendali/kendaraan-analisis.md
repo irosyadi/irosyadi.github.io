@@ -11,19 +11,6 @@ draft: false
 # 2.2. Analisis Sistem Kendaraan
 
 ## 2.2.1. System model and parameters
-The transfer function model for the cruise control problem is given below. Please see the Cruise Control: System Modeling page for the derivation.
-
-(1)
-
-$$
-P(s) = \frac{V(s)}{U(s)} = \frac{1}{ms+b}  \qquad  [ \frac{m/s}{N} ]
-$$
-
-The parameters used in this example are as follows:
-
-(m)   vehicle mass            1000 kg
-(b)   damping coefficient     50 N.s/m
-(u)   nominal control force   500 N
 
 
 ## 2.2.2. Performance specifications

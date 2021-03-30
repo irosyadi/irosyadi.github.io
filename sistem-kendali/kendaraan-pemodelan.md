@@ -16,7 +16,7 @@ Sistem kendali kendaraan adalah contoh sistem kendali umpan balik yang banyak di
 
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1616900791_20210328100507201_19989.png)
 
-Dinamika dari kendaraan We consider here a simple model of the vehicle dynamics, shown in the free-body diagram (FBD) above. The vehicle, of mass m, is acted on by a control force, u. The force u represents the force generated at the road/tire interface. For this simplified model we will assume that we can control this force directly and will neglect the dynamics of the powertrain, tires, etc., that go into generating the force. The resistive forces, bv, due to rolling resistance and wind drag, are assumed to vary linearly with the vehicle velocity, v, and act in the direction opposite the vehicle's motion.
+Dinamika dari kendaraan dinyatakan dengan *free-body diagram* (FBD) seperti pada gambar atas. Kendaraan, dengan massa m, mendapatkan gaya, u. Gaya u menyatakan gaya yang diberikan antara ban mobil dan permukaan jalan. Model ini disederhanakan dengan mengasumsikan bahwa kita bisa langsung memberikan gaya pada roda dan mengabaikan dinamika dari rangkaian tenaga pada mobil, karakteristik ban dll. Gaya hambat pada model tersebut, bv, disebabkan karena hambatan angin dan gesekan perputaran roda. Gaya hambat tersebut diasumsikan berubah secara linear sesuai dengan kecepatan kendaraan, v, dan memiliki arah berkebalikan dengan gerakan mobil.
 
 ## 2.1.2. Persamaan Sistem
 
@@ -24,13 +24,23 @@ Berdasar asumsi di atas, sistem kendaraan dinyatakan sebagai sebuah sistem orde 
 
 $$
 m \dot{v} + b v = u
-$$
+$$ (1)
 
 Karena kita tertarik dengan pengendalian kecepatan kendaraan, maka luaran dari sistem adalah:
 
 $$
 y = v
-$$
+$$ (2)
 
-## 2.1.3. System Parameters
+### Parameter Sistem
 
+Untuk contoh ini, asumsikan bahwa parameter sistem adalah:
+
+- (m) massa kendaraan: 1000 kg
+- (b) koefisien redaman: 50 N.s/m
+
+
+## 2.1.3. Fungsi Alih dan State Space Sistem
+
+Fungsi alih sistem kendaraan dengan masukan $u(s)$ dan keluaran $V(s)$ adalah ...
+State space system dengan *state vector* $[v]$ , input $u$ dan output $v$ adalah ...

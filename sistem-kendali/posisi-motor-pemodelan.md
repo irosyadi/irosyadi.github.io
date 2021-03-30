@@ -1,16 +1,16 @@
 ---
 layout: default
 author: irosyadi
-title:  3.1. Pemodelan Kecepatan Motor
-date: 2021-03-28 13:45:42
+title:  4.1. Pemodelan Posisi Motor
+date: 2021-03-28 14:45:42
 category: sistem-kendali
 tags: ["sistem kendali"]
 draft: false
 ---
 
-# 3.1. Pemodelan Kecepatan Motor
+# 4.1. Pemodelan Posisi Motor
 
-## 3.1.1. Sistem Kecepatan Motor
+## 3.1.1. Sistem Posisi Motor
 
 Motor DC adalah salah satu aktuator yang paling umum digunakan di sistem kendali. Motor DC berfungsi menyediakan luaran berupa gerakan berputar, dan apabila dikopling dengan tabung dan kabel/karet dapat menyediakan luaran berupa gerakan translasi. Rangkaian listrik ekivalen dari armatur dan *free-body diagram*  dari rotor sebuah motor ditunjukkan pada gambar berikut.
 
@@ -18,8 +18,7 @@ Motor DC adalah salah satu aktuator yang paling umum digunakan di sistem kendali
 
 Pada contoh ini, kita mengasumsikan bahwa masukan sistem adalah sumber tegangan ($V$) yang diberikan kepada armatur motor, sedangkan luarnnya adalah kecepatan rotasi batang motor $\dot{\theta}$. Rotor dan batang motor diasumsikan kaku. Selain itu, kita juga mengasumsikan ada model gesekan *viscous*  yaitu berupa torsi gesekan yang proporsional dengan kecepatan angular batang.
 
-## 3.1.2. Persamaan Sistem
-
+## 4.1.2. Persamaan Sistem
 Secara umum, torsi yang dibangkitkan oleh motor DC proporsional dengan arus armatur dan kekuatan medan magnet permanen. Pada contoh ini, kita mengasumsikan bahwa medan magnetnya bersifat konstan, sehingga torsi motor hanya proporsional dengan arus armatur $i$ dengan faktor konstanta $K_t$ sebagaimana pada persamaan di bawah ini. Model motor DC semacam itu disebut sebagai motor dengan kendali armatur (*armature-controlled motor*).
 
 $$  T = K_{t} i$$ (1)
@@ -37,16 +36,15 @@ $$ L \frac{di}{dt} + Ri = V - K\dot{\theta}$$ (4)
 
 ### Parameter Sistem
 
-- (J) momen inersia rotor: 0.01 kg.m^2
-- (b) konstanta friksi viscous motor: 0.1 N.m.s
-- (Ke) konstanta gaya gerak listrik: 0.01 V/rad/sec
-- (Kt) konstanta torsi motor: 0.01 N.m/Amp
+- (J) momen inersia rotor: 3.2284E-6 kg.m^2
+- (b) konstanta friksi viscous motor: 3.5077E-6 N.m.s
+- (Ke) konstanta gaya gerak listrik: 0.0274 V/rad/sec
+- (Kt) konstanta torsi motor: 0.0274 N.m/Amp
 - (K) = (Ke) = (Kt)
-- (R) resistansi: 1 Ohm
-- (L) induktansi: 0.5 H
+- (R) resistansi: 4 Ohm
+- (L) induktansi: 2.75E-6 H
 
 ## 3.1.3. Fungsi Alih dan State Space Sistem
 
-Fungsi alih sistem kendaraan dengan masukan $V(s)$ dan keluaran $\dot{\Theta}(s)$  adalah ...
-State space system dengan *state vector* $\left [ \begin{array}{c} \dot{\theta} \\ \ \\ i \end{array} \right]$,  input $V$ dan output $\dot{\theta}$ adalah ...
-
+Fungsi alih sistem kendaraan dengan masukan $V(s)$ dan keluaran ${\Theta}(s)$  adalah ...
+State space system dengan *state vector*  $\left [\begin{array}{c} \theta \\ \ \\ \dot{\theta} \\ \ \\ i\end{array}\right]$,  input $V$ dan ouput $\theta$ adalah ...
