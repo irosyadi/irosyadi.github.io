@@ -30,11 +30,8 @@ The transfer function representation is especially useful when analyzing system 
 
 
 
-Inline tex with $s$
-Inline tex with $$s$$
+Test inline with $$x+y_2=z^2$$  ok
+Test inline with $x+y_2=z^2$
+Test block with
 
-\( s \)
-
-$$
-s
-$$
+$$x+y_2=z^2$$  

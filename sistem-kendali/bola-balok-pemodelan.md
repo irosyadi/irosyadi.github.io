@@ -2,7 +2,7 @@
 layout: default
 author: irosyadi
 title:  8.1. Pemodelan Sistem Bola Balok
-date: 2021-03-28 16:45:42
+date: 2021-03-29 14:45:42
 category: sistem-kendali
 tags: ["sistem kendali"]
 draft: false
@@ -12,32 +12,36 @@ draft: false
 
 ## 8.1.1. Sistem Bola Balok
 
-A ball is placed on a beam, see figure below, where it is allowed to roll with 1 degree of freedom along the length of the beam. A lever arm is attached to the beam at one end and a servo gear at the other. As the servo gear turns by an angle $\theta$, the lever changes the angle of the beam by $\alpha$. When the angle is changed from the horizontal position, gravity causes the ball to roll along the beam. A controller will be designed for this system so that the ball's position can be manipulated.
+Sebagaimana pada gambar di bawah, sebuah bola ditempatkan pada balok yang mana bola dapat menggelinding sepanjang balok. Sebuah batang tuas (*lever arm*) dipasangkan pada balok dan dihubungkan dengan sebuah gir servo. Saat gir servo berputar dengan sudut  $\theta$, tuas akan mengubah sudut balok sebesar $\alpha$. Saat sudut berubah lebih miring dari posisi horisontal awal, maka bola akan menggelinding sepanjang balok. Sebuah pengendali akand irancang untuk sistem ini untuk mengatur posisi bola di sepanjang balok.
 
-![Bola Balok](_v_images/20210330171214832_5957.png)
+![ball-beam](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1617179902_20210331153812010_2569.jpg)
 
 ## 8.1.2. Persamaan Sistem
 
-The second derivative of the input angle $\alpha$ actually affects the second derivative of $r$. However, we will ignore this contribution. The Lagrangian equation of motion for the ball is then given by the following:
+Persamaan Lagrange untuk gerakan bola pada balok dinyatakan dengan:
 
-(1)$$ 0 = \left(\frac{J}{R^2}+m\right) \ddot{r} + m g \sin{\alpha} - m r
-\dot{\alpha}^2 $$
+$$ 0 = \left(\frac{J}{R^2}+m\right) \ddot{r} + m g \sin{\alpha} - m r \dot{\alpha}^2 $$ (1)  
 
-Linearization of this equation about the beam angle, $\alpha = 0$, gives us the following linear approximation of the system:
+dengan $r$ adalah koordinat posisi bola pada balok, $R$ adalah radius bola, $J$ adalah momen inersia bola, $m$ adalah massa bola, dan $g$ adalah percepatan gravitasi.
 
-(2)$$ \left(\frac{J}{R^2}+m\right) \ddot{r} = - m g \alpha $$
+Dengan melakukan linearisasi pada persamaan tersebut pada sudut balok $\alpha = 0$, aproksimasi persamaan linear sistem adalah:
 
-The equation which relates the beam angle to the angle of the gear can be approximated as linear by the equation below:
+$$ \left(\frac{J}{R^2}+m\right) \ddot{r} = - m g \alpha $$ (2)  
 
-(3)$$ \alpha = \frac{d}{L}\theta $$
+Persamaan yang menghubungkan dengan sudut balok dengan sudut gir dapat didekati dengan persamaan linear sebagai berikut:
 
-Substituting this into the previous equation, we get:
 
-(4)$$ \left(\frac{J}{R^2}+m\right) \ddot{r} = - m g \frac{d}{L} \theta $$
+$$ \alpha = \frac{d}{L}\theta $$ (3)  
+
+dengan $d$ adalah offset lengan tuas, $L$ adalah panjang balok dan $\theta$ adalah sudut gir servo.
+
+Dengan melakukan subtitusi ke persamaan sebelumnya, kita mendapatkan:
+
+$$ \left(\frac{J}{R^2}+m\right) \ddot{r} = - m g \frac{d}{L} \theta $$ (4)  
+
+Pada persamaan di atas, sebenarnya turunan kedua dari  $\alpha$ berkait dengan turunan kedua dari $r$. Akan tetapi untuk menyederhanakan persamaan sistem, hal tersebut diabaikan. Demikian pula kita mengasumsikan bahwa bola menggelinding tanpa mengalami selip (tergelincir) dan tanpa mengalami friksi dengan balok.  
 
 ### Parameter Sistem
-
-- For this problem, we will assume that the ball rolls without slipping and friction between the beam and ball is negligible. The constants and variables for this example are defined as follows:
 
 - (m) massa bola: 0.11 kg
 - (R) radius bola: 0.015 m
@@ -46,20 +50,14 @@ Substituting this into the previous equation, we get:
 - (L) panjang balok: 1.0 m
 - (J) momen inersia bola: 9.99e-6 kg.m^2
 - (r) koordinat posisi bola
-- (alpha) koordinat sudut bola
-- (theta)  sudut gir servo
+- (α) koordinat sudut bola
+- (θ) sudut gir servo
 
 ## 8.1.3. Fungsi Alih dan State Space Sistem
 
-Fungsi alih sistem kendaraan dengan masukan sudut gir $\Theta(s)$ dan keluaran posisi bola $R(s)$  adalah ...
+Fungsi alih sistem kendaraan dengan masukan sudut gir $\Theta(s)$ dan keluaran posisi bola $R(s)$  adalah ...  
 
-State space system dengan *state vector* $\left[{\begin{array}{c} r \\ \dot{r} \\ \alpha \\ \dot{\alpha} \end{array}}\right]$,  input $\theta$ dan output $r$ adalah ...
 
-The linearized system equations can also be represented in state-space form. This can be done by selecting the ball's position ($r$) and velocity ($\dot{r}$) as the state variable and the gear angle ($\theta$) as the input.
+State space system dengan *state vector* $\left[{\begin{array}{c} r \\ \dot{r} \end{array}}\right]$,  input $\theta$ dan output $r$ adalah ...
 
-$$ \left[{\begin{array}{c} \dot{r} \\ \ddot{r} \end{array}}\right] =
-\left[{\begin{array}{cc} 0 & 1 \\ 0 & 0 \end{array}}\right]
-\left[{\begin{array}{c} r \\ \dot{r} \end{array}}\right] +
-\left[{\begin{array}{c} 0 \\ -\frac{m g d}{L
-\left(\frac{J}{R^2}+m\right)}\end{array}}\right] \theta$$
 

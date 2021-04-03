@@ -1,0 +1,40 @@
+---
+layout: default
+author: irosyadi
+title:  Electronics
+date: 2020-12-28 04:06:07
+category: course
+tags: ["electronic"]
+draft: false
+---
+
+# Electronics
+
+## Electronic Blog
+* [Evil Mad Scientist Laboratories | Making the world a better place, one Evil Mad Scientist at a time.](https://www.evilmadscientist.com/)
+
+## Electronic Simulator
+- [Everycircuit](https://everycircuit.com/app/)
+- [Online circuit simulator & schematic editor - CircuitLab](https://www.circuitlab.com/)
+- [Circuit Diagram Web Editor](https://www.circuit-diagram.org/editor/)
+- [Partsim](https://www.partsim.com/)
+- [library.io](https://library.io/)
+- [Tejotron](https://www.tejotron.com/)
+- [hneemann/Digital: A digital logic designer and circuit simulator.](https://github.com/hneemann/Digital)
+- [List of Electronic Simulator](https://www.electronics-lab.com/downloads/)
+
+## Electronic Diagram
+- [Circuit Diagram Web Editor](https://www.circuit-diagram.org/editor/)
+
+## EDA Simulator
+- [EDA Playground](https://www.edaplayground.com/) : Verilog, VHDL
+
+## Electronic Forum
+- [Electronic Lab](https://www.electronics-lab.com/) : Electronic Forum
+* [Forum for Electronics](https://www.edaboard.com/)
+
+## Electronic Tutorial
+- [Electronic Tutorials](https://www.electronics-tutorials.ws/)
+- [Learn Sparkfun](https://learn.sparkfun.com/)
+- [All About Circuits](https://www.allaboutcircuits.com)
+- [Talking Electronics](http://www.talkingelectronics.com/)

@@ -2,7 +2,7 @@
 layout: default
 author: irosyadi
 title:  2.1. Pemodelan Sistem Kendaraan
-date: 2021-03-28 10:04:55
+date: 2021-03-29 10:04:55
 category: sistem-kendali
 tags: ["sistem kendali"]
 draft: false
@@ -24,13 +24,13 @@ Berdasar asumsi di atas, sistem kendaraan dinyatakan sebagai sebuah sistem orde 
 
 $$
 m \dot{v} + b v = u
-$$ (1)
+$$ (1)  
 
 Karena kita tertarik dengan pengendalian kecepatan kendaraan, maka luaran dari sistem adalah:
 
 $$
 y = v
-$$ (2)
+$$ (2)  
 
 ### Parameter Sistem
 
@@ -42,5 +42,8 @@ Untuk contoh ini, asumsikan bahwa parameter sistem adalah:
 
 ## 2.1.3. Fungsi Alih dan State Space Sistem
 
-Fungsi alih sistem kendaraan dengan masukan $u(s)$ dan keluaran $V(s)$ adalah ...
-State space system dengan *state vector* $[v]$ , input $u$ dan output $v$ adalah ...
+Fungsi alih sistem kendaraan dengan masukan $u(s)$ dan keluaran $V(s)$ adalah ...  
+
+
+State space system dengan *state vector* $[v]$ , input $u$ dan output $v$ adalah ...  
+
