@@ -52,6 +52,8 @@ draft: false
 
 ## Interactive 
 - [Neave Interactive](https://neave.com/)
+- [Neal.fun](https://neal.fun/)
+- [NEAL.ART](https://neal.art/)
 
 ## Markup
 - [Idyll - A markup language for interactive and data-driven blogging.](https://idyll-lang.org/) : Make interactive web with just markup language (combined with markdown)
@@ -65,6 +67,11 @@ draft: false
 - [Viewing Matrices & Probability as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs)
 - [rossant/awesome-math: A curated list of awesome mathematics resources](https://github.com/rossant/awesome-math)
 - [fastai/numerical-linear-algebra: Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course](https://github.com/fastai/numerical-linear-algebra)
+
+## Interactive Web
+- [It's Nicky Case!](https://ncase.me/) License: CC0
+    - [explorableexplanations/explorableexplanations.github.io: The Explorable Explanations Website](https://github.com/explorableexplanations/explorableexplanations.github.io#explorable-explanations)
+- [Explorables](https://www.reddit.com/r/explorables/)
 
 ## Look Also
 - [Interactive and Explorable Sites](../app/interactive-explorable-web.md)

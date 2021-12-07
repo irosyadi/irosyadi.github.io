@@ -38,9 +38,11 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 * [Making deep neural networks paint to understand how they work - by Paras Chopra - Towards Data Science](https://towardsdatascience.com/making-deep-neural-networks-paint-to-understand-how-they-work-4be0901582ee)
     * [paraschopra/abstract-art-neural-network: Generating abstract art through neural networks in PyTorch](https://github.com/paraschopra/abstract-art-neural-network)
 
-
-## GAN
+## GAN Project/Paper
 - [NVlabs/stylegan3: Official PyTorch implementation of StyleGAN3](https://github.com/NVlabs/stylegan3)
+- [AI Demos | NVIDIA Research](https://www.nvidia.com/en-us/research/ai-demos/) GAN
+- [HyperStyle](https://yuval-alaluf.github.io/hyperstyle/) StyleGAN Inversion
+- [Pollinations.AI](https://old.pollinations.ai/)
 
 ## Style GAN
 * [Making Anime Faces With StyleGAN · Gwern.net](https://www.gwern.net/Faces?ref=mlnews#examples)
@@ -73,6 +75,7 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 - [TheseToonsDoNotExist](http://www.thesetoonsdonotexist.com/)
 - [This Word Does Not Exist](https://www.thisworddoesnotexist.com/)
 - [This Waifu Does Not Exist v3.5 (TWDNEv3.5) - Gwern](https://www.thiswaifudoesnotexist.net/)
+- [Free UI faces for designers, avatars, dummy faces, AI generated people faces | Lorem Faces](https://loremfaces.com/)
 
 ## GAN Image Superresolution
 - [Cupscale](https://github.com/n00mkrad/cupscale)
@@ -123,6 +126,9 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 - [UJI Generative Arts](https://doersino.github.io/uji/)
 - [Generative arts](https://opinionatedguide.github.io/#/Design/d5-gen)
 - [mxgmn/WaveFunctionCollapse: Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics](https://github.com/mxgmn/WaveFunctionCollapse)
+- [4K Desktop wallpaper generator](https://tanck.nl/wallpaper/)
+- [Trianglify.io · Low Poly Pattern Generator](https://trianglify.io/)
+- [https://www.artbreeder.com/landing_page/](https://www.artbreeder.com/landing_page/)
 
 
 ## Music Generation
@@ -137,6 +143,9 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 - [GRUV: Algorithmic Music Generation using Recurrent Neural Networks - Aran Nayebi](https://sites.google.com/site/anayebihomepage/cs224dfinalproject)
     - [MattVitelli/GRUV: GRUV is a Python project for algorithmic music generation.](https://github.com/MattVitelli/GRUV)
 
+## Video Generation
+- [Hyperchroma](https://hyperchroma.app/) A music player that creates real-time music videos (hyperchroma.app)
+
 ## Colorization
 - Pix2pix vs CycleGAN
     - Cycle-GAN can work in an 'unpaired' manner and various architectural differences. Unpaired image translation is much harder, as you demand the model to learn objects of different shapes, size, angle, texture, location in different scenes and settings on top of the actual task (coloring in this case). Requires more data and you don't have fine control on the learning. Formulating the coloring problem as a paired task makes more sense as you simply decrease the complexity of the problem without increasing data collection/annotation work.
@@ -147,3 +156,17 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
     - [Github](https://github.com/moein-shariatnia/Deep-Learning/tree/main/Image%20Colorization%20Tutorial)
     - [Tutorial](https://towardsdatascience.com/colorizing-black-white-images-with-u-net-and-conditional-gan-a-tutorial-81b2df111cd8?source=friends_link&sk=e9d275985a6e00ada31e48ddc903fc9d) 
     - [Jupyter in Colab](https://colab.research.google.com/github/moein-shariatnia/Deep-Learning/blob/main/Image%20Colorization%20Tutorial/Image%20Colorization%20with%20U-Net%20and%20GAN%20Tutorial.ipynb)
+
+
+## Art Generation
+- [Art by an AI | A daily prompt competition. Alice the AI generates images of the top 10 winning prompts each day.](https://artbyanai.com/)
+- [NVIDIA Canvas: Turn Simple Brushstrokes into Realistic Images](https://www.nvidia.com/en-gb/studio/canvas/)
+
+## Machine Learning: Image Generator
+* [Same Energy Beta](https://same.energy/about)
+* [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
+
+## Text to Image Generation
+* [lucidrains/deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)](https://github.com/lucidrains/deep-daze)
+* [Weights & Biases – Developer tools for ML](https://wandb.ai/site)
+* [lucidrains/deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)](https://github.com/lucidrains/deep-daze)
