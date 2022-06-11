@@ -1,0 +1,261 @@
+{
+    "created_time": "2020-12-17T06:35:27Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "634",
+            "modified_time": "2020-12-17T06:35:58Z",
+            "name": "mk-sistem-kendali-lanjut.md",
+            "signature": "15296019158713",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "635",
+            "modified_time": "2020-12-17T06:35:58Z",
+            "name": "linear-algebra.md",
+            "signature": "122360963913401",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "636",
+            "modified_time": "2020-12-17T06:35:58Z",
+            "name": "mk-matematika-teknik.md",
+            "signature": "107152484718265",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-06-10T18:34:28Z",
+            "id": "637",
+            "modified_time": "2021-06-10T18:34:28Z",
+            "name": "cs231n.md",
+            "signature": "5507788691129",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "638",
+            "modified_time": "2021-12-30T07:05:39Z",
+            "name": "digital-signal-processing.md",
+            "signature": "58640829109945",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-06-19T11:22:05Z",
+            "id": "639",
+            "modified_time": "2021-06-19T11:22:05Z",
+            "name": "cs231n-summary.md",
+            "signature": "131745467455161",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "640",
+            "modified_time": "2022-04-30T04:16:18Z",
+            "name": "machine-learning.md",
+            "signature": "9536468014777",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-30T03:53:42Z",
+            "id": "641",
+            "modified_time": "2020-12-30T03:53:42Z",
+            "name": "mk-machine-learning.md",
+            "signature": "23203053950649",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "642",
+            "modified_time": "2022-04-30T04:18:34Z",
+            "name": "control-systems.md",
+            "signature": "29735699207865",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "643",
+            "modified_time": "2020-12-17T06:35:58Z",
+            "name": "machine-learning-andrewng.md",
+            "signature": "16455660328633",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-27T21:06:02Z",
+            "id": "644",
+            "modified_time": "2022-04-30T04:17:23Z",
+            "name": "electronics.md",
+            "signature": "83190862173881",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-02-21T12:08:43Z",
+            "id": "645",
+            "modified_time": "2022-04-30T04:19:01Z",
+            "name": "mk-sistem-kendali.md",
+            "signature": "16657523791545",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-02-21T12:12:09Z",
+            "id": "646",
+            "modified_time": "2022-04-30T04:19:32Z",
+            "name": "mk-sistem-kendali-cerdas.md",
+            "signature": "87013383067321",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-02-21T12:14:08Z",
+            "id": "647",
+            "modified_time": "2022-04-30T04:19:43Z",
+            "name": "mk-pengolahan-sinyal-digital.md",
+            "signature": "81640378980025",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-02-21T12:16:23Z",
+            "id": "648",
+            "modified_time": "2021-02-21T12:16:23Z",
+            "name": "mk-internet-of-things.md",
+            "signature": "97149505885881",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "649",
+            "modified_time": "2020-12-17T06:35:58Z",
+            "name": "kuliah.md",
+            "signature": "102956301670073",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-01-14T12:16:08Z",
+            "id": "650",
+            "modified_time": "2021-01-14T12:16:08Z",
+            "name": "embedded-system.md",
+            "signature": "128863544399545",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "651",
+            "modified_time": "2022-06-11T10:19:20Z",
+            "name": "README.md",
+            "signature": "94254697928377",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-01-05T20:57:05Z",
+            "id": "652",
+            "modified_time": "2021-01-05T20:57:05Z",
+            "name": "machine-learning-andrewng-quiz.md",
+            "signature": "42010715739833",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-01-01T01:00:23Z",
+            "id": "653",
+            "modified_time": "2021-01-01T01:00:23Z",
+            "name": "statistic-probability.md",
+            "signature": "113835453830841",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "654",
+            "modified_time": "2022-04-30T04:20:12Z",
+            "name": "free-online-course.md",
+            "signature": "53224875349689",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "655",
+            "modified_time": "2020-12-17T06:35:58Z",
+            "name": "mk-dasar-teknik-elektro.md",
+            "signature": "140382646687417",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "656",
+            "modified_time": "2020-12-17T06:35:58Z",
+            "name": "fundamentals-of-electrical-engineering.md",
+            "signature": "108720147781305",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "657",
+            "modified_time": "2020-12-17T06:35:58Z",
+            "name": "instrumentation.md",
+            "signature": "28769331566265",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2020-12-17T06:35:58Z",
+            "id": "658",
+            "modified_time": "2020-12-17T06:35:58Z",
+            "name": "control-design-frequency.md",
+            "signature": "24006212835001",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "633",
+    "modified_time": "2021-12-27T15:07:37Z",
+    "signature": "64005243262649",
+    "version": 3
+}
