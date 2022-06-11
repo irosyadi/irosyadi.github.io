@@ -1,4 +1,6 @@
-title: "Remote theme example"
-remote_theme: just-the-docs/just-the-docs
-color_scheme: "dark"
-search_enabled: false
+#title: "Remote theme example"
+#remote_theme: just-the-docs/just-the-docs
+#color_scheme: "dark"
+#search_enabled: false
+
+remote_theme: rundocs/jekyll-rtd-theme
