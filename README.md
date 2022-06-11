@@ -1,41 +1,32 @@
-## Welcome to GitHub Pages
+# starter
 
-🚀 🐼
+1. [Generate with the same files and folders](https://github.com/rundocs/starter/generate) from this repository
+2. Set up your GitHub Pages to source(`/`)
+3. Now you can view your documentation in your site
 
-yes
+## site.pages
 
-You can use the [editor on GitHub](https://github.com/pmarsceill/test-jtd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!-- prettier-ignore-start -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| source          | link                                                           |
+| --------------- | -------------------------------------------------------------- |
+{% for page in site.pages -%}
+| {{ page.path }} | [{{ page.url | relative_url }}]({{ page.url | relative_url }}) |
+{% endfor %}
 
-### Markdown
+<!-- prettier-ignore-end -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Documents
 
-```markdown
-Syntax highlighted code block
+https://jekyll-rtd-theme.rundocs.io
 
-# Header 1
-## Header 2
-### Header 3
+## Local debug
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```sh
+make
+make server
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## The license
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmarsceill/test-jtd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The theme is available as open source under the terms of the MIT License

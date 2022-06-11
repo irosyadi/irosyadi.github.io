@@ -1,6 +1,18 @@
-#title: "Remote theme example"
-#remote_theme: just-the-docs/just-the-docs
-#color_scheme: "dark"
-#search_enabled: false
+title: Your awesome title
+lang: en
+description: Write an awesome description for your new site here
 
 remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
