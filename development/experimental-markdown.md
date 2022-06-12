@@ -15,6 +15,7 @@ Experimental markdown to check Markdown parser compatibility between VNote+Viki,
 ## Internal Link Reference
 [About Me](/blog/about-me)
 In VNote App `/blog/about-me` refer to `C://blog/about-me`
+In github.io and netlify, it successfully goes to about-me page. It was fail in gitbook.
 
 ## Number and Bullet
 
@@ -85,6 +86,15 @@ Here is the comment:
 
 ![QR Code Image-small](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1608464780_20201220183102525_18817.png)
 
+## Tittle YAML
+- Cannot use `:` in tittle
+
+## Content
+- Cannot use `% {` in github.io
+- Cannot use `|` in github.io
+
 
 ## SVG
+github.io and gitbook.io cannot render svg
+
 ![crocodile](https://snapsvg.io/assets/images/crocodile.svg)
