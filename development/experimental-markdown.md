@@ -13,9 +13,23 @@ draft: false
 Experimental markdown to check Markdown parser compatibility between VNote+Viki, Gatsby-starter-bee, and Gitbook.
 
 ## Internal Link Reference
+
 [About Me](/blog/about-me)
 In VNote App `/blog/about-me` refer to `C://blog/about-me`
 In github.io and netlify, it successfully goes to about-me page. It was fail in gitbook.
+
+## Random Image
+
+ ![Random Picsum Image](https://picsum.photos/200/200)
+
+
+![Random Unsplash Cat](https://source.unsplash.com/200x200/?cat)
+
+
+![Random Loremflickr Cat](https://loremflickr.com/200/200/cat)
+
+![Random Face](https://generated.photos/face-generator)
+
 
 ## Number and Bullet
 
