@@ -19,7 +19,7 @@ At the moment, here are the categories:
 * Course: Course notes for my students.
 * Development: Notes about how I develop this site.
 * How To: How-to notes.
-* Markdown: Notes about markdown syntax.
+* Markdown: Notes about markdown syntax. 
 * Note: Categorical notes, in English.
 * Research: Notes related to my research.
 
@@ -43,14 +43,7 @@ And here is another cat.
 [![GitHub: irosyadi](https://img.shields.io/github/followers/irosyadi?label=follow&style=social)](https://github.com/irosyadi)
 
 
-## Site Pages
 
-<!-- prettier-ignore-start -->
 
-| source          | link                                                           |
-| --------------- | -------------------------------------------------------------- |
-{% for page in site.pages -%}
-| {{ page.path }} | [{{ page.url | relative_url }}]({{ page.url | relative_url }}) |
-{% endfor %}
 
-<!-- prettier-ignore-end -->
+
