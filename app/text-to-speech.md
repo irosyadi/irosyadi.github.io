@@ -28,6 +28,7 @@ Related links:
 - [Mozilla Common Voice](https://commonvoice.mozilla.org/en)
 - [Amazon Polly](https://aws.amazon.com/polly/)
 - [Descript | Create podcasts, videos, and transcripts](https://www.descript.com/)
+- [Maestra | Automatic Transcripts, Translation, Subtitles and Voiceovers](https://maestrasuite.com/video-translator-online)
 - [Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica](https://replicastudios.com/)
 - [15.ai: Natural TTS with minimal data](https://15.ai/)
 - [CookiePPP/cookietts: TTS from Cookie. Messy and experimental!](https://github.com/CookiePPP/cookietts)
