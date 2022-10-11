@@ -112,6 +112,7 @@ Related links:
 - [voila-dashboards/voila: Voilà turns Jupyter notebooks into standalone web applications](https://github.com/voila-dashboards/voila)
 - [mljar/mercury: Mercury: easily convert Python notebook to web app and share with others](https://github.com/mljar/mercury)
 * [Build web app from Python Notebook | MLJAR](https://mljar.com/mercury/)
+* [Notebooks](https://jupyterspot.com/) Collaborative Jupyter Whiteboards
 
 ## Blog with Jupyter
 - [fastpages | An easy to use blogging platform with support for Jupyter Notebooks.](https://fastpages.fast.ai/)
@@ -124,4 +125,11 @@ Related links:
     - [Introduction to Jupyter Notebooks - set-up, user-guide, and best practices](https://pabloinsente.github.io/intro-jupyter-ide)
     - [How to Create a Jupyter-Book Website From Scratch](https://pabloinsente.github.io/how-to-create-a-jupyter-book-website-from-scratch)
 * [8 surprising ways how to use Jupyter Notebook | MLJAR](https://mljar.com/blog/how-to-use-jupyter-notebook/)
+
+## Jupyter
+- [The Jupyter+git problem is now solved · fast.ai](https://www.fast.ai/2022/08/25/jupyter-git/)
+- [nbdev+Quarto: A new secret weapon for productivity · fast.ai](https://www.fast.ai/2022/07/28/nbdev-v2/)
+- [nbdev – Create delightful software with Jupyter Notebooks](https://nbdev.fast.ai/)
+- [ReviewNB - Jupyter Notebook Code Reviews & Collaboration](https://www.reviewnb.com/)
+- [Jupyter Notebooks as Markdown Documents, Julia, Python or R Scripts — Jupytext documentation](https://jupytext.readthedocs.io/en/latest/index.html)
 

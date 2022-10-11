@@ -13,7 +13,7 @@ draft: false
 Related links:  
 🔗 [Awesome List of Data Visualization](/note/data-visualization)  
 🔗 [Awesome List of Machine Learning Visualization](/research/ml-visualization)  
-🔗 [Awesome List of Interactive and Explorable Webs](/app/interactive-explorable-web)  
+🔗 [Awesome List of Interactive and Explorable Webs](../webapp/interactive-explorable-web.md)  
 🔗 [Interactive Books](/book/interactive-book)  
 
 ## Visualization eBook
@@ -102,3 +102,60 @@ Related links:
 
 ## Visualization
 - [The Science of Visual Data Communication: What Works - Steven L. Franconeri, Lace M. Padilla, Priti Shah, Jeffrey M. Zacks, Jessica Hullman, 2021](https://journals.sagepub.com/stoken/default+domain/10.1177%2F15291006211051956-FREE/full#.YbpbbYlu2Xw.twitter)
+
+## Scientific Data Visualization
+- [Data visualization: A view of every Points of View column : Methagora](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
+- [The Science of Visual Data Communication: What Works - Steven L. Franconeri, Lace M. Padilla, Priti Shah, Jeffrey M. Zacks, Jessica Hullman, 2021](https://journals.sagepub.com/stoken/default+domain/10.1177%2F15291006211051956-FREE/full#.YbpbbYlu2Xw.twitter)
+
+## Visualization
+- [Archives - Bartosz Ciechanowski](https://ciechanow.ski/archives/)
+- [3Blue1Brown](https://www.3blue1brown.com/)
+
+## Visualization
+- [Tabletop Whale](http://tabletopwhale.com/index.html)
+
+## Visualization App
+* [RAWGraphs](https://www.rawgraphs.io/)
+
+## Visualization
+* [Physics Notes](https://landgreen.github.io/physics/index.html)
+* [Math, Physics, and Engineering Applets](http://www.falstad.com/mathphysics.html)
+* [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html)
+* [Fowler's Physics Applets](http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/home.html)
+* [https://phet.colorado.edu/en/simulations/filter?subjects=biology&type=html,prototype](https://phet.colorado.edu/en/simulations/filter?subjects=biology&type=html,prototype)
+
+## 2D Design Programming
+- [PixiJS](https://pixijs.com/) Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [Welcome to Processing! / Processing.org](https://processing.org/) Processing is a flexible software sketchbook and a language for learning how to code.
+- [Context Free Art](https://www.contextfreeart.org/)
+- [Graphtoy](https://graphtoy.com/) HTML Graph visualization
+- [Shadertoy BETA](https://www.shadertoy.com/)
+
+## Hardware Visualization Animation
+- [NW.js](https://nwjs.io/)
+- [Involt/Involt: Inject hardware interactions directly into HTML layout.](https://github.com/Involt/Involt)
+- [Involt - Arduino to html prototyping framework for designers.](http://involt.github.io/index.html)
+
+## Data Visualization
+* [Marple | Data analysis platform for engineering teams](https://www.marpledata.com/)
+* [FlowingData | Data Visualization and Statistics](https://flowingdata.com/)
+* [Junk Charts](https://junkcharts.typepad.com/junk_charts/)
+* [Home - Jim Vallandingham](https://vallandingham.me/)
+* [Datavisualization.ch](https://datavisualization.ch/)
+* [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
+* [Data Viz Project | Collection of data visualizations to get inspired and finding the right type.](https://datavizproject.com/)
+* [The Data Visualisation Catalogue](https://datavizcatalogue.com/index.html)
+* [Charts](http://visualizationuniverse.com/charts/)
+* [Magic Ink: Information Software and the Graphical Interface](http://worrydream.com/MagicInk/)
+* [DataVis.ca](https://www.datavis.ca/index.php)
+* [Python Graph Gallery](https://www.python-graph-gallery.com/)
+* [Plotly Python Graphing Library](https://plotly.com/python/)
+
+## Online Visualization
+* [Pricing | Create charts and maps with Datawrapper](https://www.datawrapper.de/pricing)
+* [Dash Documentation & User Guide | Plotly](https://dash.plotly.com/)
+* [Visualizations - datamatic.io](https://datamatic.io/)
+* [Online Chart & Graph Maker| LiveGap](https://charts.livegap.com/#TypesofCharts)
+* [Charts  |  Google Developers](https://developers.google.com/chart/)
+* [Gist - Data becomes knowledge](https://www.gistapp.com/)
+* [RAWGraphs](https://www.rawgraphs.io/)
