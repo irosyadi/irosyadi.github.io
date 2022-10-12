@@ -1,13 +1,11 @@
 ---
-layout: default
-author: irosyadi
-title:  Research
+title:  Note
 date: 2020-06-01 20:09:34
-category: research
-tags: ["category", "research"]
+category: note
+tags: ["note"]
 draft: false
 ---
 
-# Research
+# Note
 
 {% include list.liquid all=true %}

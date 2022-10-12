@@ -1,13 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  Research
+title: Drawing and Diagram
 date: 2020-06-01 20:09:34
-category: research
-tags: ["category", "research"]
+category: drawing
+tags: ["drawing", "diagram"]
 draft: false
 ---
 
-# Research
-
-{% include list.liquid all=true %}
+# Drawing and Diagram
