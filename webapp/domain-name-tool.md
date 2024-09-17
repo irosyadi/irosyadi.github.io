@@ -40,6 +40,7 @@ draft: false
 * [Who is request](https://whoisrequest.com/history/)
 * [Whois History](https://whois-history.whoisxmlapi.com/api)
 * [DNS Trails](https://securitytrails.com/dns-trails#/)
+* [Validin](https://app.validin.com/)
 
 ### Whois
 
