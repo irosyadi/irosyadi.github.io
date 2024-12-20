@@ -25,7 +25,8 @@ draft: false
 
 * [CloudOptimizer](https://cloudoptimizer.io/)
 * [Cloud GPUs](https://cloud-gpus.com/)
-
+* [GPU Cloud Pricing](https://www.gpucloudpricing.com)
+* 
 ### GPU Rent Price Comparison per hour
 
 1xA100, 40GB, Vast, $0.828-$1.372  
